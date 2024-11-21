@@ -331,4 +331,4 @@ demo.css = """
 
 
 """
-demo.launch(server_name="0.0.0.0",server_port=7967)
+demo.launch(server_name="0.0.0.0",server_port=7999)

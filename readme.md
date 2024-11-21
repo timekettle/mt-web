@@ -34,9 +34,7 @@
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+本项目采用 MIT 许可证授权，详细信息请参阅 LICENSE 文件。
 
 ## Acknowledgements
-
-This project makes use of Gradio for efficient inference. This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-https://github.com/timekettle/vits-web
+本项目基于 Gradio 框架构建，并在 MIT 许可证 下发布。参考了项目 vits-web 的设计与实现。[https://github.com/timekettle/vits-web]
