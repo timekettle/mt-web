@@ -70,7 +70,17 @@ def get_max_version_folder(langpair_folder):
     else:
         max_version_folder = max(file_list)[1]
         return os.path.join(langpair_folder, max_version_folder)
-
+# 当用户切换源语言时，检查目标语言，并翻译文本框内容
+# def handle_language_change(src_lang, tgt_lang, text, model, tokenizer):
+#         if text and model and tokenizer:  # 如果文本框中有内容，立即翻译
+#             return perform_translation(text, model, tokenizer)
+#         return gr.update()
+# 文本框延迟翻译逻辑 
+def delayed_translation(text, model, tokenizer):
+        time.sleep(0.5)  # 延迟 0.5 秒
+        if model and tokenizer and text:
+            return perform_translation(text, model, tokenizer)
+        return gr.update() 
 def perform_translation(text, model, tokenizer): 
     """执行翻译"""
     if model is None or tokenizer is None:
@@ -78,6 +88,7 @@ def perform_translation(text, model, tokenizer):
     if not text:
         return ""  # 如果输入为空，返回空字符串
     try:
+        logger.info(f"用户的输入是{text}")
         # 对输入文本进行编码
         inputs = tokenizer(text, return_tensors="pt", padding=True)
         # 使用模型生成翻译
@@ -95,13 +106,15 @@ def load_model_and_tokenizer(model_path):
     model = MarianMTModel.from_pretrained(model_path)
     tokenizer = MarianTokenizer.from_pretrained(model_path)
     return model, tokenizer, "success"
-def check_and_load_model(src_lang_display, tgt_lang_display):
-    """检查语言对并加载对应的翻译模型"""
+def check_and_load_model(src_lang_display, tgt_lang_display, text, model, tokenizer):
+    """检查语言对并加载对应的翻译模型，同时处理文本翻译"""
     src_lang = reverse_language_mapping.get(src_lang_display, src_lang_display)
     tgt_lang = reverse_language_mapping.get(tgt_lang_display, tgt_lang_display)
-    #logger.info(f"选择的源语言: {src_lang_display} ({src_lang}), 目标语言: {tgt_lang_display} ({tgt_lang})")
+
+    logger.info("=============================================")
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     logger.info(f"时间: {current_time}")
+
     if src_lang and tgt_lang:  # 确保源语言和目标语言不为空
         # 检查语言对是否可用，并获取模型路径
         status, model_path = delayed_language_check(src_lang, tgt_lang)
@@ -112,24 +125,23 @@ def check_and_load_model(src_lang_display, tgt_lang_display):
             model, tokenizer, load_status = load_model_and_tokenizer(model_path)
 
             if load_status == "success":
-                # 启用输入框
-                return model, tokenizer, gr.update(
-                    interactive=True, placeholder="请输入要翻译的文本..."
-                )
+                # 翻译文本框内容（如果有）
+                if text:
+                    translation = perform_translation(text, model, tokenizer)
+                else:
+                    translation = gr.update()
+                
+                # 返回加载的模型、分词器、输入框状态更新、翻译结果
+                return model, tokenizer, gr.update(interactive=True, placeholder="请输入要翻译的文本..."), translation, model_path
             else:
-                return None, None, gr.update(
-                    interactive=False, placeholder="模型加载失败，请检查配置。"
-                )
+                # 加载失败
+                return None, None, gr.update(interactive=False, placeholder="模型加载失败，请检查配置。"), gr.update(),None
         else:
             # 如果模型不可用，禁用输入框
-            return None, None, gr.update(
-                interactive=False, placeholder="请先选择源语言和目标语言。"
-            )
+            return None, None, gr.update(interactive=False, placeholder="请先选择源语言和目标语言。"), gr.update(),None
+    
     # 如果语言对未指定，禁用输入框
-    return None, None, gr.update(
-        interactive=False, placeholder="请先选择源语言和目标语言。"
-    )
-
+    return None, None, gr.update(interactive=False, placeholder="请先选择源语言和目标语言。"), gr.update(),None
 
 # 延迟检查语言对可用性
 def delayed_language_check(src_lang, tgt_lang):
@@ -159,7 +171,7 @@ def perform_gpt_translation(text, src_lang_display, tgt_lang_display):
                 {"role": "user", "content": f"源语言是 {src_lang}, 内容是：{text}，目标语言是{tgt_lang}，你需要先把内容全部转化小写再翻译"}
             ]
         )
-        logger.info(f"用户的输入是{text}")
+        
         logger.info(f"GPT-4o翻译结果是{response.choices[0].message.content}")
         return response.choices[0].message.content
     except Exception as e:
@@ -188,7 +200,7 @@ def perform_google_translation(text, src_lang_display, tgt_lang_display):
         return f"请求失败，状态码: {response.status_code}, 错误信息: {response.text}"
 
 # 保存反馈
-def save_badcase(comments, input_text, output_text, google_output_text, src_lang_display, tgt_lang_display):
+def save_badcase(comments, input_text, output_text, google_output_text, src_lang_display, tgt_lang_display, model_path):
     src_lang = reverse_language_mapping.get(src_lang_display, src_lang_display)
     tgt_lang = reverse_language_mapping.get(tgt_lang_display, tgt_lang_display)
     badcase = {
@@ -198,6 +210,7 @@ def save_badcase(comments, input_text, output_text, google_output_text, src_lang
         "google_output_text": google_output_text,
         "src_lang": src_lang,
         "tgt_lang": tgt_lang,
+        "model_path":model_path
     }
     with open("badcase.jsonl", "a", encoding="utf-8") as f:
         f.write(json.dumps(badcase, ensure_ascii=False) + "\n")
@@ -205,7 +218,18 @@ def save_badcase(comments, input_text, output_text, google_output_text, src_lang
 
 
 with gr.Blocks() as demo:
-    gr.HTML("<h1 style='text-align: center;'>机器翻译界面</h1>")
+    gr.HTML("""
+    <div style="text-align: center; padding-top: 10px;">
+    <div class="bili-avatar" style="margin-bottom: -10px;">
+        <a href="https://cn.timekettle.co" target="_blank">
+            <img style="width:120px;height:120px;border-radius:80px;max-width:120px;" 
+                title="前往时空壶"
+                src="https://26349372.s21i.faiusr.com/4/ABUIABAEGAAgmIf5gwYoluervAUwjBE4sRM.png">
+        </a>
+    </div>
+    <h1 style="margin-top: 5px;">时空壶自研AI翻译助手</h1>
+    </div>
+    """)
 
     logger.add("log.txt", 
            rotation="10 MB",   # 文件达到 10 MB 时创建新文件
@@ -232,31 +256,45 @@ with gr.Blocks() as demo:
 
     with gr.Row():
         comments_textbox = gr.Textbox(label="欢迎您留下您的意见反馈", lines=5, placeholder="感谢使用！觉得翻译还行吗？不妨在下面写点反馈，您的吐槽或表扬都会让我们的产品更优秀哦！🎉", elem_id="comments_textbox")
-        save_badcase_button = gr.Button("感谢您的反馈，写完请点这里，您的每一次反馈都是对我们进步的帮助！", elem_id="save_badcase_button")
+    with gr.Row():   
+        save_badcase_button = gr.Button("感谢您的反馈，写完请点这里提交！", elem_id="save_badcase_button")
     
     model_var = gr.State()
     tokenizer_var = gr.State()
+    model_path_var = gr.State()
 
-    src_lang_dropdown.change(fn=update_target_dropdown_with_mapping, inputs=src_lang_dropdown, outputs=tgt_lang_dropdown)
+    src_lang_dropdown.change(fn=update_target_dropdown_with_mapping, 
+                            inputs=src_lang_dropdown, 
+                            outputs=tgt_lang_dropdown)
 
+
+    # tgt_lang_dropdown.change(
+    #     fn=check_and_load_model,
+    #     inputs=[src_lang_dropdown, tgt_lang_dropdown],
+    #     outputs=[model_var, tokenizer_var, input_text]
+    # )
 
     tgt_lang_dropdown.change(
-        fn=check_and_load_model,
-        inputs=[src_lang_dropdown, tgt_lang_dropdown],
-        outputs=[model_var, tokenizer_var, input_text]
+    fn=check_and_load_model,
+    inputs=[src_lang_dropdown, tgt_lang_dropdown, input_text, model_var, tokenizer_var],
+    outputs=[model_var, tokenizer_var, input_text, output_text,model_path_var]
     )
 
 
     
 
-    input_text.change(fn=perform_translation, inputs=[input_text, model_var, tokenizer_var], outputs=output_text)
+    input_text.change(fn=perform_translation, 
+                    inputs=[input_text, model_var, tokenizer_var], 
+                    outputs=output_text)
 
-    google_translate_button.click(fn=perform_gpt_translation, inputs=[input_text, src_lang_dropdown, tgt_lang_dropdown], outputs=google_output_text)
+    google_translate_button.click(fn=perform_gpt_translation, 
+                    inputs=[input_text, src_lang_dropdown, tgt_lang_dropdown], 
+                    outputs=google_output_text)
 
 
     save_badcase_button.click(
         fn=save_badcase,
-        inputs=[comments_textbox, input_text, output_text, google_output_text, src_lang_dropdown, tgt_lang_dropdown],
+        inputs=[comments_textbox, input_text, output_text, google_output_text, src_lang_dropdown, tgt_lang_dropdown,model_path_var],
         outputs=gr.Textbox(label="提交状态", value="等待用户输入反馈评价！"),
     )
 
@@ -302,7 +340,7 @@ demo.css = """
     font-size: 16px;
     font-weight: bold;
     color: linear-gradient(135deg, #ffa07a, #ff7f50);
-    background: white;
+    background: linear-gradient(135deg, #ffa07a, #ff7f50);
     border: 2px solid linear-gradient(135deg, #ffa07a, #ff7f50);
     border-radius: 8px;
     text-align: center;
@@ -331,4 +369,4 @@ demo.css = """
 
 
 """
-demo.launch(server_name="0.0.0.0",server_port=7999)
+demo.launch(server_name="0.0.0.0",server_port=7983)
