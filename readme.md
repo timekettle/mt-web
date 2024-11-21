@@ -1,0 +1,41 @@
+# 机器翻译界面项目
+本项目是一个基于 MarianMT 和 GPT-4o 的机器翻译应用，提供了用户友好的界面，用于文本翻译和多语言支持。项目还集成了日志记录、错误反馈和分布式模型加载等功能。
+
+## 功能概述
+
+- **多语言翻译支持**：
+  - 基于 MarianMT 模型的本地翻译。
+  - 支持 GPT-4o 翻译（Azure OpenAI 服务）。
+  - 集成 Google Translate API 作为备选。
+
+- **用户交互界面**：
+  - 提供源语言和目标语言选择。
+  - 显示翻译结果和对比。
+
+- **日志记录**：
+  - 自动记录用户操作、时间和翻译详情。
+
+- **用户反馈**：
+  - 提供反馈提交功能，保存用户建议和意见。
+
+
+## 项目目录结构
+├── config.json          # 语言对与模型路径的配置文件
+├── mapping.jsonl        # 语言名称与缩写的映射文件
+├── log.txt              # 自动生成的日志文件
+├── badcase.jsonl        # 保存用户反馈的文件
+├── infer.py              # 主程序代码
+
+## 启动程序
+- 启动应用：
+  python infer.py
+- 打开浏览器，访问：
+  http://localhost:7967
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+This project makes use of Gradio for efficient inference. This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).

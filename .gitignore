@@ -1,0 +1,11 @@
+data/
+exp/
+models/
+results/
+spm_model/
+__pycache__
+badcase.jsonl
+config.json
+log.txt
+
+
