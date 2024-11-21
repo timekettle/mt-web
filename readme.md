@@ -39,3 +39,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 This project makes use of Gradio for efficient inference. This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+https://github.com/timekettle/vits-web
