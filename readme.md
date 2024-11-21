@@ -20,17 +20,17 @@
 
 
 ## 项目目录结构
-├── config.json          # 语言对与模型路径的配置文件
-├── mapping.jsonl        # 语言名称与缩写的映射文件
-├── log.txt              # 自动生成的日志文件
-├── badcase.jsonl        # 保存用户反馈的文件
-├── infer.py              # 主程序代码
+├── config.json          
+├── mapping.jsonl        
+├── log.txt              
+├── badcase.jsonl        
+├── infer.py              
 
 ## 启动程序
 - 启动应用：
   python infer.py
 - 打开浏览器，访问：
-  http://localhost:7967
+  http://localhost:7999
 
 ## License
 
