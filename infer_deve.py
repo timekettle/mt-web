@@ -211,14 +211,14 @@ class TranslationApp:
             "tgt_lang": tgt_lang,
             "model_path":model_path
         }
-        with open("badcase.jsonl", "a", encoding="utf-8") as f:
+        with open("output/badcase.jsonl", "a", encoding="utf-8") as f:
             f.write(json.dumps(badcase, ensure_ascii=False,indent=2) + "\n")
         return "反馈已保存成功！"
 
 
 
 if __name__ == "__main__":
-    app = TranslationApp("deve_config.json")
+    app = TranslationApp("config/deve_config.json")
 
     with gr.Blocks() as demo:
         gr.HTML("""
@@ -237,7 +237,7 @@ if __name__ == "__main__":
         </div>
         """)
 
-        logger.add("log.txt", rotation="10 MB", retention=None, encoding="utf-8", level="INFO")
+        logger.add("output/deve_log.txt", rotation="10 MB", retention=None, encoding="utf-8", level="INFO")
 
         with gr.Row():
             with gr.Column():

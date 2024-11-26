@@ -1,0 +1,53 @@
+2024-11-26 15:27:07.636 | INFO     | __main__:check_and_load_model:117 - =============================================
+2024-11-26 15:27:07.637 | INFO     | __main__:check_and_load_model:119 - 时间: 2024-11-26 15:27:07
+2024-11-26 15:27:13.430 | INFO     | __main__:check_and_load_model:117 - =============================================
+2024-11-26 15:27:13.430 | INFO     | __main__:check_and_load_model:119 - 时间: 2024-11-26 15:27:13
+2024-11-26 15:27:13.931 | INFO     | __main__:check_and_load_model:124 - 选择的源语言: 中文 (zh), 目标语言: 日语 (ja)
+2024-11-26 15:27:13.932 | INFO     | __main__:check_and_load_model:125 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-ja-final
+2024-11-26 15:27:22.542 | INFO     | __main__:perform_translation:94 - 用户的输入是时空壶翻译
+2024-11-26 15:27:23.371 | INFO     | __main__:perform_translation:98 - 自研模型翻译结果是時空の壺の翻訳
+2024-11-26 15:27:27.198 | INFO     | __main__:perform_gpt_translation:169 - GPT-4o翻译结果是時空ポット翻訳
+2024-11-26 15:28:22.065 | INFO     | __main__:check_and_load_model:117 - =============================================
+2024-11-26 15:28:22.066 | INFO     | __main__:check_and_load_model:119 - 时间: 2024-11-26 15:28:22
+2024-11-26 15:28:22.567 | INFO     | __main__:check_and_load_model:124 - 选择的源语言: 中文 (zh), 目标语言: 土耳其语 (tr)
+2024-11-26 15:28:22.567 | INFO     | __main__:check_and_load_model:125 - 找到的模型路径: /home/yumingdong/mt-web/results/results-zh-tr
+2024-11-26 15:28:23.867 | INFO     | __main__:perform_translation:94 - 用户的输入是时空壶翻译
+2024-11-26 15:28:24.174 | INFO     | __main__:perform_translation:98 - 自研模型翻译结果是Uzay-zaman kettle çevirisi.
+2024-11-26 15:28:27.766 | INFO     | __main__:perform_gpt_translation:169 - GPT-4o翻译结果是zaman-mekân çömleği çevirisi
+2024-11-26 15:28:31.587 | INFO     | __main__:check_and_load_model:117 - =============================================
+2024-11-26 15:28:31.588 | INFO     | __main__:check_and_load_model:119 - 时间: 2024-11-26 15:28:31
+2024-11-26 15:28:38.848 | INFO     | __main__:check_and_load_model:117 - =============================================
+2024-11-26 15:28:38.848 | INFO     | __main__:check_and_load_model:119 - 时间: 2024-11-26 15:28:38
+2024-11-26 15:28:39.349 | INFO     | __main__:check_and_load_model:124 - 选择的源语言: 英文 (en), 目标语言: 中文 (zh)
+2024-11-26 15:28:39.350 | INFO     | __main__:check_and_load_model:125 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-en-zh-final
+2024-11-26 15:28:40.491 | INFO     | __main__:perform_translation:94 - 用户的输入是时空壶翻译
+2024-11-26 15:28:47.950 | INFO     | __main__:perform_translation:98 - 自研模型翻译结果是>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-11-26 15:28:50.372 | INFO     | __main__:perform_translation:94 - 用户的输入是时空壶翻
+2024-11-26 15:28:57.691 | INFO     | __main__:perform_translation:98 - 自研模型翻译结果是>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-11-26 15:28:57.719 | INFO     | __main__:perform_translation:94 - 用户的输入是today is tuesday
+2024-11-26 15:28:57.891 | INFO     | __main__:perform_translation:98 - 自研模型翻译结果是今天是星期二
+2024-11-26 15:29:02.403 | INFO     | __main__:perform_gpt_translation:169 - GPT-4o翻译结果是今天是星期二。
+2024-11-26 15:29:10.601 | INFO     | __main__:check_and_load_model:117 - =============================================
+2024-11-26 15:29:10.601 | INFO     | __main__:check_and_load_model:119 - 时间: 2024-11-26 15:29:10
+2024-11-26 15:29:11.102 | INFO     | __main__:check_and_load_model:124 - 选择的源语言: 英文 (en), 目标语言: 意大利语 (it)
+2024-11-26 15:29:11.103 | INFO     | __main__:check_and_load_model:125 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-en-it-final
+2024-11-26 15:29:12.214 | INFO     | __main__:perform_translation:94 - 用户的输入是today is tuesday
+2024-11-26 15:29:17.785 | INFO     | __main__:perform_translation:98 - 自研模型翻译结果是Oggi è martedì
+2024-11-26 15:29:23.095 | INFO     | __main__:perform_gpt_translation:169 - GPT-4o翻译结果是oggi è martedì
+2024-11-26 15:33:03.402 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 15:33:03.403 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 15:33:03
+2024-11-26 15:33:07.123 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 15:33:07.124 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 15:33:07
+2024-11-26 15:33:07.625 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 中文 (zh), 目标语言: 英文 (en)
+2024-11-26 15:33:07.625 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-en-final
+2024-11-26 15:33:23.244 | INFO     | __main__:perform_translation:95 - 用户的输入是此代码封装了之前所有功能为 TranslationApp 类，并通过 launch_app 方法启动 Gradio 界面
+2024-11-26 15:33:24.606 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是This code encapsulates all previous functions as the TranslationApp class and starts the Gradio interface using the launch_app method.
+2024-11-26 15:33:27.966 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是this code encapsulates all previous functionalities into a translationapp class and launches the gradio interface via the launch_app method.
+2024-11-26 15:33:54.230 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 15:33:54.231 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 15:33:54
+2024-11-26 15:33:54.732 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 中文 (zh), 目标语言: 英文 (en)
+2024-11-26 15:33:54.732 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-en-final
+2024-11-26 15:33:55.879 | INFO     | __main__:perform_translation:95 - 用户的输入是我想去吃烧烤
+2024-11-26 15:33:56.154 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I want to eat barbecue.
+2024-11-26 15:34:07.443 | INFO     | __main__:perform_translation:95 - 用户的输入是周一，斯坦福大学医学院的科学家宣布，他们发明了一种可以将细胞按类型分类的新型诊断工具：一种可打印的微型芯片。这种芯片可以使用标准喷墨打印机制造，每片价格可能在一美分左右。
+2024-11-26 15:34:09.114 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是On Monday, scientists at Stanford University School of Medicine announced that they have invented a new diagnostic tool that can classify cells by type: a printable microchip. This chip can be made using a standard inkjet printer, and the price per chip may be around one cent.
