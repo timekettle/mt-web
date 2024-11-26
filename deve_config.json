@@ -1,0 +1,35 @@
+{
+    "languages": {
+      "zh": {
+        "name": "中文",  
+        "targets": {
+          "en": {
+            "name": "英文",
+            "model_paths": [
+                "/home/yumingdong/mt-web/results/opus-mt-zh-en-final"
+            ]
+          },
+          "ru": {
+            "name": "俄语",
+            "model_paths": [
+              "/home/yumingdong/mt-web/results/opus-mt-zh-ru-final"
+            ]
+          }
+        }
+      },
+      "no": {
+        "name": "挪威语",
+        "targets": {
+          "zh": {
+            "name": "中文",
+            "model_paths": [
+              "/home/yumingdong/mt-web/results/results-no-zh-cn-newbase-dataset2-batch32/checkpoint-1388500",
+              "/home/yumingdong/mt-web/results/results-no-zh-cn-newbase-dataset2-batch32/checkpoint-1388000"
+            ]
+          }
+          
+        }
+      }
+    }
+  }
+  

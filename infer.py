@@ -8,7 +8,7 @@ import openai
 from loguru import logger
 from datetime import datetime
 # 加载 config.json 和 mapping.jsonl
-config_file = 'config.json'
+config_file = 'user_config.json'
 mapping_file = 'mapping.jsonl'
 
 with open(config_file, 'r') as f:
@@ -207,28 +207,34 @@ def save_badcase(comments, input_text, output_text, google_output_text, src_lang
         "comments": comments,
         "input_text": input_text,
         "output_text": output_text,
-        "google_output_text": google_output_text,
+        "gpt_output_text": google_output_text,
         "src_lang": src_lang,
         "tgt_lang": tgt_lang,
         "model_path":model_path
     }
     with open("badcase.jsonl", "a", encoding="utf-8") as f:
-        f.write(json.dumps(badcase, ensure_ascii=False) + "\n")
+        f.write(json.dumps(badcase, ensure_ascii=False,indent=2) + "\n")
     return "反馈已保存成功！"
 
 
 with gr.Blocks() as demo:
     gr.HTML("""
-    <div style="text-align: center; padding-top: 10px;">
-    <div class="bili-avatar" style="margin-bottom: -10px;">
-        <a href="https://cn.timekettle.co" target="_blank">
-            <img style="width:120px;height:120px;border-radius:80px;max-width:120px;" 
-                title="前往时空壶"
-                src="https://26349372.s21i.faiusr.com/4/ABUIABAEGAAgmIf5gwYoluervAUwjBE4sRM.png">
-        </a>
+    <div style="display: flex; align-items: center; padding-top: 10px;">
+    <!-- 图片部分 -->
+    <a href="https://cn.timekettle.co" target="_blank" style="margin-right: 10px;">
+        <img style="width: 120px; height: 120px; border-radius: 80px; max-width: 120px;" 
+             title="前往时空壶"
+             src="https://26349372.s21i.faiusr.com/4/ABUIABAEGAAgmIf5gwYoluervAUwjBE4sRM.png">
+    </a>
+    <!-- 标题部分 -->
+    <div style="text-align: left;">
+        <h1 style="margin: 0; font-size: 32px;">时空壶翻译(Timekettle Translator) Demo</h1>
+        <h2 style="margin: 0; font-size: 16px; color: gray; text-align: left;">基于Marian机器翻译模型，支持GPT-4o翻译对照</h2>
     </div>
-    <h1 style="margin-top: 5px;">时空壶自研AI翻译助手</h1>
     </div>
+
+
+
     """)
 
     logger.add("log.txt", 

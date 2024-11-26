@@ -70,17 +70,7 @@ def get_max_version_folder(langpair_folder):
     else:
         max_version_folder = max(file_list)[1]
         return os.path.join(langpair_folder, max_version_folder)
-# 当用户切换源语言时，检查目标语言，并翻译文本框内容
-# def handle_language_change(src_lang, tgt_lang, text, model, tokenizer):
-#         if text and model and tokenizer:  # 如果文本框中有内容，立即翻译
-#             return perform_translation(text, model, tokenizer)
-#         return gr.update()
-# 文本框延迟翻译逻辑 
-def delayed_translation(text, model, tokenizer):
-        time.sleep(0.5)  # 延迟 0.5 秒
-        if model and tokenizer and text:
-            return perform_translation(text, model, tokenizer)
-        return gr.update() 
+
 def perform_translation(text, model, tokenizer): 
     """执行翻译"""
     if model is None or tokenizer is None:
@@ -268,12 +258,6 @@ with gr.Blocks() as demo:
                             outputs=tgt_lang_dropdown)
 
 
-    # tgt_lang_dropdown.change(
-    #     fn=check_and_load_model,
-    #     inputs=[src_lang_dropdown, tgt_lang_dropdown],
-    #     outputs=[model_var, tokenizer_var, input_text]
-    # )
-
     tgt_lang_dropdown.change(
     fn=check_and_load_model,
     inputs=[src_lang_dropdown, tgt_lang_dropdown, input_text, model_var, tokenizer_var],
@@ -369,4 +353,4 @@ demo.css = """
 
 
 """
-demo.launch(server_name="0.0.0.0",server_port=7999)
+demo.launch(server_name="0.0.0.0",server_port=7991)
