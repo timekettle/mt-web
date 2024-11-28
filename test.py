@@ -18,6 +18,8 @@ class TranslationApp:
         self.source_languages_display, self.lang_pairs, self.lang_pairs_display = self.get_lang_pairs_with_mapping()
         logger.add("output/user_log.txt", rotation="10 MB", retention=None, encoding="utf-8", level="INFO")
 
+    
+    
     def load_config(self):
         """加载 config.json 配置文件"""
         with open(self.config_file, 'r') as f:
@@ -84,7 +86,65 @@ class TranslationApp:
         if model and tokenizer and text:
             return self.perform_translation(text, model, tokenizer)
         return gr.update()
+    
+    def mask_language_token(self, input_ids: torch.Tensor, unk_token: int) -> torch.Tensor:
+        """
+        针对多语言模型，随机掩盖源语种、目标语种
+        """
+        aug_type = random.choices(
+            ["mask_src", "mask_tgt", "mask_both", "no_mask"],
+            [0.15, 0.1, 0.05, 0.7]
+        )[0]
 
+        if aug_type == "mask_src":
+            input_ids[0] = unk_token
+        elif aug_type == "mask_tgt":
+            input_ids[1] = unk_token
+        elif aug_type == "mask_both":
+            input_ids[0] = unk_token
+            input_ids[1] = unk_token
+        elif aug_type == "no_mask":
+            pass
+
+        return input_ids
+
+    def add_language_ids(
+        self, 
+        inputs: str, 
+        src_lang: str, 
+        tgt_lang: str,
+        ) -> torch.Tensor:
+        inputs = tokenizer(inputs, return_tensors="pt", padding=True)
+
+        # 值是这些语言标识符对应的整数索引
+        src_lang_id = torch.tensor([self.language_ids[f">>{src_lang}<<"]])
+        tgt_lang_id = torch.tensor([self.language_ids[f">>{tgt_lang}<<"]])
+        
+        # 将源语言标识符（src_lang_id）、目标语言标识符（tgt_lang_id）以及输入的 input_ids 拼接在一起，形成一个新的输入序列，并传递给模型以明确指定翻译方向。
+        # e.g :
+        # src_lang_id = torch.tensor([1]) # 英语标识符 
+        # tgt_lang_id = torch.tensor([2]) # 法语标识符
+        # inputs["input_ids"][:-2] = torch.tensor([101, 7592, 1010, 2129])
+        # tensor([1, 2, 101, 7592, 1010, 2129])
+        inputs["input_ids"] = torch.cat(
+            (src_lang_id, tgt_lang_id, inputs["input_ids"][:-2]), dim=-1
+        )
+
+        # 指示哪些标记是有效的（即非填充的），用于模型在计算时忽略填充部分。1 表示实际的，0表示padding
+        inputs["attention_mask"] = torch.cat(
+            (torch.ones(2), inputs["attention_mask"][:-2]), dim=-1
+        )
+        inputs["labels"] = torch.cat((tgt_lang_id, inputs["labels"][:-1]), dim=-1)
+        # random mask language token while training
+        if self.mask_language_token:
+            inputs["input_ids"] = self.augment.mask_language_token(
+                inputs.get("input_ids"), unk_token=self.unk_token
+            )
+
+        inputs["src_lang"] = src_lang
+        inputs["tgt_lang"] = tgt_lang
+        return inputs
+    
     def perform_translation(self, text, model, tokenizer):
         """执行翻译"""
         if model is None or tokenizer is None:
@@ -306,7 +366,7 @@ class TranslationApp:
         }
 
         """
-        demo.launch(server_name="0.0.0.0", server_port=7966)
+        demo.launch(server_name="0.0.0.0", server_port=7989)
 
 
 if __name__ == "__main__":

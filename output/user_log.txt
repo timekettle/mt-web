@@ -51,3 +51,1005 @@
 2024-11-26 15:33:56.154 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I want to eat barbecue.
 2024-11-26 15:34:07.443 | INFO     | __main__:perform_translation:95 - 用户的输入是周一，斯坦福大学医学院的科学家宣布，他们发明了一种可以将细胞按类型分类的新型诊断工具：一种可打印的微型芯片。这种芯片可以使用标准喷墨打印机制造，每片价格可能在一美分左右。
 2024-11-26 15:34:09.114 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是On Monday, scientists at Stanford University School of Medicine announced that they have invented a new diagnostic tool that can classify cells by type: a printable microchip. This chip can be made using a standard inkjet printer, and the price per chip may be around one cent.
+2024-11-26 15:38:52.264 | INFO     | __main__:perform_translation:95 - 用户的输入是11 点 20 分，警察要求抗议者退回到人行道，并告知抗议者，在行使抗议权利时，务必考虑到越来越拥堵的公共交通问题。
+2024-11-26 15:38:53.814 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是At 11:20, the police asked the protesters to retreat to the sidewalk and informed them that when exercising their protest rights, they must consider the increasingly congested public transportation issues.
+2024-11-26 15:40:55.730 | INFO     | __main__:perform_translation:95 - 用户的输入是他当晚的第二个进球是他本赛季的第60个进球，成为自1995-96赛季以来首位在一个赛季中打进60个或更多进球的球员——在1995-96赛季，亚罗米尔·雅格和马里奥·拉缪都达到了这一里程碑。
+2024-11-26 15:40:57.317 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是His second goal of the night was his 60th goal of the season, becoming the first player to score 60 or more goals in a single season since the 1995-96 season—in the 1995-96 season, Yaromir Jager and Mario Rameau both reached this milestone.
+2024-11-26 15:43:58.137 | INFO     | __main__:perform_translation:95 - 用户的输入是“有些人可能不同意，但我不在乎。”
+2024-11-26 15:43:58.592 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是"Some people may disagree, but I don't care."
+2024-11-26 15:44:15.917 | INFO     | __main__:perform_translation:95 - 用户的输入是科曼的政策让计划生育计划搁浅，因为在等待众议员克里夫·斯特恩斯 (Cliff Stearns) 执行的计划生育计划资金支出和报告调查结果。
+2024-11-26 15:44:16.944 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Koeman's policy has put the family planning on hold because of the expenditure on family planning funds awaiting Congressman Cliff Stearns' execution and the results of the report.
+2024-11-26 16:26:10.938 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 16:26:10.938 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 16:26:10
+2024-11-26 16:26:35.956 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 16:26:35.956 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 16:26:35
+2024-11-26 16:26:36.457 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 英文 (en), 目标语言: 中文 (zh)
+2024-11-26 16:26:36.458 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-en-zh-final
+2024-11-26 16:26:43.119 | INFO     | __main__:perform_translation:95 - 用户的输入是Human-like Voice
+2024-11-26 16:26:43.328 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是人性化的声音
+2024-11-26 16:26:48.935 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是人类般的声音
+2024-11-26 16:26:52.361 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 16:26:52.363 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 16:26:52
+2024-11-26 16:26:58.369 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 16:26:58.369 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 16:26:58
+2024-11-26 16:26:58.870 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 中文 (zh), 目标语言: 英文 (en)
+2024-11-26 16:26:58.871 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-en-final
+2024-11-26 16:27:06.223 | INFO     | __main__:perform_translation:95 - 用户的输入是c
+2024-11-26 16:27:06.490 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I like learning new languages.
+2024-11-26 16:27:06.579 | INFO     | __main__:perform_translation:95 - 用户的输入是chao
+2024-11-26 16:27:06.757 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Chao
+2024-11-26 16:27:07.540 | INFO     | __main__:perform_translation:95 - 用户的输入是超
+2024-11-26 16:27:07.715 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Super
+2024-11-26 16:27:08.903 | INFO     | __main__:perform_translation:95 - 用户的输入是c
+2024-11-26 16:27:09.163 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I like learning new languages.
+2024-11-26 16:27:09.261 | INFO     | __main__:perform_translation:95 - 用户的输入是cao
+2024-11-26 16:27:09.434 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是CAO
+2024-11-26 16:27:09.614 | INFO     | __main__:perform_translation:95 - 用户的输入是草
+2024-11-26 16:27:09.790 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Grass.
+2024-11-26 16:27:16.343 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是grass
+2024-11-26 16:27:20.381 | INFO     | __main__:perform_translation:95 - 用户的输入是y
+2024-11-26 16:27:21.353 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是The weather is really nice today.
+2024-11-26 16:27:21.449 | INFO     | __main__:perform_translation:95 - 用户的输入是yiwa
+2024-11-26 16:27:21.620 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是YIWA
+2024-11-26 16:27:21.704 | INFO     | __main__:perform_translation:95 - 用户的输入是yiwang
+2024-11-26 16:27:21.873 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Yiwang
+2024-11-26 16:27:21.907 | INFO     | __main__:perform_translation:95 - 用户的输入是yiwange
+2024-11-26 16:27:22.078 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Yiwange
+2024-11-26 16:27:22.262 | INFO     | __main__:perform_translation:95 - 用户的输入是一万个
+2024-11-26 16:27:22.466 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Ten thousand.
+2024-11-26 16:27:22.516 | INFO     | __main__:perform_translation:95 - 用户的输入是一万个c
+2024-11-26 16:27:22.735 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Ten thousand Cs.
+2024-11-26 16:27:22.819 | INFO     | __main__:perform_translation:95 - 用户的输入是一万个cao
+2024-11-26 16:27:23.035 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Ten thousand ACOs.
+2024-11-26 16:27:23.275 | INFO     | __main__:perform_translation:95 - 用户的输入是一万个草
+2024-11-26 16:27:23.468 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Ten thousand grasses.
+2024-11-26 16:27:23.529 | INFO     | __main__:perform_translation:95 - 用户的输入是一万个草ni
+2024-11-26 16:27:23.746 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Ten thousand grasses
+2024-11-26 16:27:23.833 | INFO     | __main__:perform_translation:95 - 用户的输入是一万个草nima
+2024-11-26 16:27:24.104 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Ten thousand grass NIMA
+2024-11-26 16:27:24.290 | INFO     | __main__:perform_translation:95 - 用户的输入是一万个草你妈
+2024-11-26 16:27:24.556 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Ten thousand grasses, your mother.
+2024-11-26 16:27:24.647 | INFO     | __main__:perform_translation:95 - 用户的输入是一万个草你妈fei
+2024-11-26 16:27:24.908 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Ten Thousand Grass Your Mother Fei
+2024-11-26 16:27:25.004 | INFO     | __main__:perform_translation:95 - 用户的输入是一万个草你妈feigu
+2024-11-26 16:27:25.318 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Ten Thousand Mothers Feigu
+2024-11-26 16:27:25.365 | INFO     | __main__:perform_translation:95 - 用户的输入是一万个草你妈feiguo
+2024-11-26 16:27:25.740 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Ten Thousand Mothers Feiguo
+2024-11-26 16:27:25.825 | INFO     | __main__:perform_translation:95 - 用户的输入是一万个草你妈飞过
+2024-11-26 16:27:26.158 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Ten thousand grasses have flown by your mother.
+2024-11-26 16:27:31.050 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是ten thousand f***s fly over you.
+2024-11-26 16:27:31.090 | INFO     | __main__:perform_translation:95 - 用户的输入是W4 AI Interpreter Earbuds
+2024-11-26 16:27:31.498 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是W4 AI 解释器耳塞
+2024-11-26 16:27:38.477 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是W4 AI 翻译耳塞
+2024-11-26 16:27:40.033 | INFO     | __main__:perform_translation:95 - 用户的输入是c
+2024-11-26 16:27:40.295 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I like learning new languages.
+2024-11-26 16:27:40.389 | INFO     | __main__:perform_translation:95 - 用户的输入是cao
+2024-11-26 16:27:40.563 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是CAO
+2024-11-26 16:27:40.747 | INFO     | __main__:perform_translation:95 - 用户的输入是草
+2024-11-26 16:27:42.850 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Grass.
+2024-11-26 16:27:42.909 | INFO     | __main__:perform_translation:95 - 用户的输入是caonima
+2024-11-26 16:27:43.084 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Canonima
+2024-11-26 16:27:43.463 | INFO     | __main__:perform_translation:95 - 用户的输入是草泥马
+2024-11-26 16:27:43.688 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Grass and mud horses.
+2024-11-26 16:27:49.975 | INFO     | __main__:perform_translation:95 - 用户的输入是Interpreter Earbuds
+2024-11-26 16:27:50.046 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是grass mud horse
+2024-11-26 16:27:50.168 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是解释耳塞
+2024-11-26 16:27:51.036 | INFO     | __main__:perform_translation:95 - 用户的输入是Interpreter Earbud
+2024-11-26 16:27:51.276 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是解释者耳塞
+2024-11-26 16:27:51.291 | INFO     | __main__:perform_translation:95 - 用户的输入是Interpreter Earbu
+2024-11-26 16:27:51.545 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是解释者厄尔布
+2024-11-26 16:27:51.596 | INFO     | __main__:perform_translation:95 - 用户的输入是Interpreter Earb
+2024-11-26 16:27:51.851 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是解释者 厄尔布
+2024-11-26 16:27:52.002 | INFO     | __main__:perform_translation:95 - 用户的输入是Interpreter Ea
+2024-11-26 16:27:52.197 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是解释者 Ea
+2024-11-26 16:27:52.256 | INFO     | __main__:perform_translation:95 - 用户的输入是Interpreter E
+2024-11-26 16:27:52.430 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是解释者E
+2024-11-26 16:27:52.512 | INFO     | __main__:perform_translation:95 - 用户的输入是Interpreter 
+2024-11-26 16:27:52.657 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是翻译
+2024-11-26 16:28:13.200 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 16:28:13.201 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 16:28:13
+2024-11-26 16:28:16.573 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 16:28:16.573 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 16:28:16
+2024-11-26 16:28:17.074 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 英文 (en), 目标语言: 中文 (zh)
+2024-11-26 16:28:17.075 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-en-zh-final
+2024-11-26 16:28:18.243 | INFO     | __main__:perform_translation:95 - 用户的输入是草泥马
+2024-11-26 16:28:26.331 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-11-26 16:28:31.080 | INFO     | __main__:perform_translation:95 - 用户的输入是m
+2024-11-26 16:28:31.225 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是m
+2024-11-26 16:28:31.637 | INFO     | __main__:perform_translation:95 - 用户的输入是ma
+2024-11-26 16:28:31.774 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是玛
+2024-11-26 16:28:32.494 | INFO     | __main__:perform_translation:95 - 用户的输入是mar
+2024-11-26 16:28:32.631 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是马克
+2024-11-26 16:28:32.748 | INFO     | __main__:perform_translation:95 - 用户的输入是mari
+2024-11-26 16:28:32.922 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是玛丽
+2024-11-26 16:28:33.358 | INFO     | __main__:perform_translation:95 - 用户的输入是maria
+2024-11-26 16:28:33.519 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是玛丽亚
+2024-11-26 16:28:33.612 | INFO     | __main__:perform_translation:95 - 用户的输入是marian
+2024-11-26 16:28:33.763 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是玛丽安
+2024-11-26 16:29:19.639 | INFO     | __main__:perform_translation:95 - 用户的输入是For Your Work-life Balance
+2024-11-26 16:29:24.745 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是为您的工作与生活平衡
+2024-11-26 16:30:15.591 | INFO     | __main__:perform_translation:95 - 用户的输入是A 24-Hours-Online Interpreting Earbud to Fulfill Your Daily Needs
+2024-11-26 16:30:16.065 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是24小时在线解读耳塞,以满足您的日常需求
+2024-11-26 16:30:19.526 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是一款满足您日常需求的24小时在线翻译耳机
+2024-11-26 16:30:41.794 | INFO     | __main__:perform_translation:95 - 用户的输入是A 24-Hou Fulfill Your Daily Needs
+2024-11-26 16:30:44.481 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是24小时满足您的日常需求
+2024-11-26 16:30:44.540 | INFO     | __main__:perform_translation:95 - 用户的输入是 Fulfill Your Daily Needs
+2024-11-26 16:30:44.745 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是满足您的日常需求
+2024-11-26 16:33:11.125 | INFO     | __main__:perform_translation:95 - 用户的输入是Your Multilingual Companion for Every Moment
+Your Personal AI Interpreter on the Go
+2024-11-26 16:33:11.703 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是您的多语言伴侣,随时随地为您提供个人AI翻译
+2024-11-26 16:33:17.419 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是你的多语种伴侣，陪伴每一刻
+您的私人 AI 口译员，随时随地
+2024-11-26 16:33:37.759 | INFO     | __main__:perform_translation:95 - 用户的输入是Your Multilingual Companion for Every Moment
+
+2024-11-26 16:33:38.105 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是您的多语种伴侣,适合每一个时刻
+2024-11-26 16:33:43.341 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是你的每时每刻多语言伴侣
+2024-11-26 16:36:15.588 | INFO     | __main__:perform_translation:95 - 用户的输入是Your Personal AI Interpreter on the Go
+
+2024-11-26 16:36:15.910 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是你的个人人工智能随行翻译
+2024-11-26 16:36:20.183 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是你的随身个人AI翻译器
+2024-11-26 16:39:44.375 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 16:39:44.375 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 16:39:44
+2024-11-26 16:39:50.623 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 16:39:50.624 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 16:39:50
+2024-11-26 16:39:51.125 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 日语 (ja), 目标语言: 中文 (zh)
+2024-11-26 16:39:51.125 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-ja-zh-final
+2024-11-26 16:40:14.600 | INFO     | __main__:perform_translation:95 - 用户的输入是Timekettle自社開発の双方向同時通訳機能により、イヤホンを装着するだけで言語の壁を越え、まるで同郷の友人と話しているかのようなスムーズで自然なコミュニケーションを実現します。
+2024-11-26 16:40:15.723 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Timekettle自有开发的双向并发翻译功能使您能够通过佩戴耳机穿越语言障碍,实现顺畅自然的沟通,就像您在与同乡朋友交谈一样。
+2024-11-26 16:40:26.287 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是timekettle自社開発の双方向同時通訳機能により、イヤホンを装着するだけで言語の壁を越え、まるで同郷の友人と話しているかのようなスムーズで自然なコミュニケーションを実現します。
+
+通过timekettle自主开发的双向同声传译功能，只需戴上耳机即可跨越语言障碍，实现如同与同乡朋友交谈般流畅自然的沟通。
+2024-11-26 16:49:56.784 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 16:49:56.785 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 16:49:56
+2024-11-26 17:18:10.458 | INFO     | __main__:perform_translation:95 - 用户的输入是Media Translation
+
+2024-11-26 17:18:10.644 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是媒体翻译
+2024-11-26 17:18:15.554 | INFO     | __main__:perform_translation:95 - 用户的输入是Media Translation
+
+
+2024-11-26 17:18:15.719 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是媒体翻译
+2024-11-26 17:18:15.808 | INFO     | __main__:perform_translation:95 - 用户的输入是Media Translation
+Media Translation
+
+2024-11-26 17:18:16.044 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是媒体翻译 媒体翻译
+2024-11-26 17:18:22.512 | INFO     | __main__:perform_translation:95 - 用户的输入是Media Translation
+Media Translation
+Media Translation
+2024-11-26 17:18:22.838 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是媒体翻译 媒体翻译 媒体翻译
+2024-11-26 17:18:25.782 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是媒体翻译
+媒体翻译
+媒体翻译
+2024-11-26 17:18:39.166 | INFO     | __main__:perform_translation:95 - 用户的输入是Media Translation
+Human-like Voice
+2024-11-26 17:18:39.438 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是媒体翻译人性化的声音
+2024-11-26 17:18:44.264 | INFO     | __main__:perform_translation:95 - 用户的输入是Media Translation
+Human-like Voice
+
+2024-11-26 17:18:44.543 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是媒体翻译人性化的声音
+2024-11-26 17:18:44.621 | INFO     | __main__:perform_translation:95 - 用户的输入是Media Translation
+Human-like Voice
+Presentation Mode
+2024-11-26 17:18:44.941 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是媒体翻译人性化语音呈现模式
+2024-11-26 17:18:47.786 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是媒体翻译
+人声
+演示模式
+2024-11-26 17:24:34.743 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是媒体翻译
+人声
+演示模式
+2024-11-26 17:27:09.603 | INFO     | __main__:perform_translation:95 - 用户的输入是Media Translation
+Human-like Voice
+Presentation Mode
+
+2024-11-26 17:27:09.935 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是媒体翻译人性化语音呈现模式
+2024-11-26 17:27:10.011 | INFO     | __main__:perform_translation:95 - 用户的输入是Media Translation
+Human-like Voice
+Presentation Mode
+Media Translation Mode -- for Easy Comprehension of Foreign Video
+2024-11-26 17:27:10.629 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是媒体翻译人性化语音呈现模式 媒体翻译模式 -- 用于轻松理解外国视频
+2024-11-26 17:27:13.450 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是媒体翻译
+拟人化语音
+演示模式
+媒体翻译模式——便于理解外语视频
+2024-11-26 17:53:38.622 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 17:53:38.623 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 17:53:38
+2024-11-26 17:53:39.125 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 中文 (zh), 目标语言: 英文 (en)
+2024-11-26 17:53:39.125 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-en-final
+2024-11-26 17:53:40.291 | INFO     | __main__:perform_translation:95 - 用户的输入是三脚猫功夫
+2024-11-26 17:53:40.555 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Three-legged cat skills:
+2024-11-26 17:53:56.757 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是mediocre skills
+2024-11-26 18:17:25.326 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 18:17:25.327 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 18:17:25
+2024-11-26 19:45:38.179 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 19:45:38.180 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 19:45:38
+2024-11-26 19:45:40.597 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-26 19:45:40.598 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-26 19:45:40
+2024-11-26 19:45:41.099 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 英文 (en), 目标语言: 中文 (zh)
+2024-11-26 19:45:41.100 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-en-zh-final
+2024-11-26 19:45:43.575 | INFO     | __main__:perform_translation:95 - 用户的输入是playground 
+2024-11-26 19:45:43.799 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是游乐场
+2024-11-27 09:31:45.212 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 09:31:45.213 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 09:31:45
+2024-11-27 09:31:46.573 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 09:31:46.573 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 09:31:46
+2024-11-27 09:31:47.074 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 日语 (ja), 目标语言: 中文 (zh)
+2024-11-27 09:31:47.075 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-ja-zh-final
+2024-11-27 09:34:01.655 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 09:34:01.656 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 09:34:01
+2024-11-27 09:34:06.895 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 09:34:06.895 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 09:34:06
+2024-11-27 09:34:07.396 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 中文 (zh), 目标语言: 英文 (en)
+2024-11-27 09:34:07.397 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-en-final
+2024-11-27 09:34:10.377 | INFO     | __main__:perform_translation:95 - 用户的输入是p
+2024-11-27 09:34:10.626 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是How was your day today?
+2024-11-27 09:34:10.680 | INFO     | __main__:perform_translation:95 - 用户的输入是pei'j
+2024-11-27 09:34:10.901 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Pei'j
+2024-11-27 09:34:10.985 | INFO     | __main__:perform_translation:95 - 用户的输入是配件
+2024-11-27 09:34:11.175 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Accessories:
+2024-11-27 09:36:09.355 | INFO     | __main__:perform_translation:95 - 用户的输入是【大阪発】最新の人工知能（AI）技術を活用した医療システムが、患者の診断精度向上と医療従事者の負担軽減を目指し、全国的に注目を集めている。大阪大学と国内の大手IT企業が共同で開発したこのシステムは、AIが画像診断や病歴データを分析し、最適な治療方法を提案する仕組みだ。
+
+研究チームの代表である佐藤教授は、「このシステムにより、特に早期がんや心疾患の診断における精度が大幅に向上しました。これからの医療の質を大きく変える可能性があります」とコメントした。
+
+この技術の導入により、地方の医療機関でも専門医レベルの診断が可能になり、医療格差の解消につながると期待されている。しかし、データのプライバシー保護やAIの判断への過度な依存に対する懸念も一部で指摘されている。
+
+政府はこの技術を推進するため、研究開発の助成金を増やす方針を発表した。今後、このシステムが全国の病院で本格導入されるかどうか、引き続き注目が集まる。
+2024-11-27 09:36:14.352 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是【大阪发】利用最新人工智能(AI)技术的医疗系统在全国范围内引起了关注,旨在提高患者的诊断准确性和减少医疗工作者负担。由大阪大学和全国最大的IT公司共同开发的该系统是人工智能分析影像学和病史数据并建议最佳治疗方法的机制。研究团队的代表佐藤教授评论道:“该系统显著提高了早期癌症和心脏病诊断的准确性,这可能会显著改变未来的医疗质量。” 预计该技术的引入也将允许地方医疗机构进行专科水平的诊断,从而消除医疗差异。然而,数据隐私保护和对过度依赖人工智能判断的担忧也在一小部分中被指出。 政府发布了一项政策,以增加研发补助金,以推动这一技术。 在未来,该系统是否会在全国范围内的医院正式推出,并将继续引起关注。
+2024-11-27 09:36:56.075 | INFO     | __main__:perform_translation:95 - 用户的输入是【大阪発】最新の人工知能（AI）技術を活用した医療システムが、患者の診断精度向上と医療従事者の負担軽減を目指し、全国的に注目を集めている。大阪大学と国内の大手IT企業が共同で開発したこのシステムは、AIが画像診断や病歴データを分析し、最適な治療方法を提案する仕組みだ。
+
+研究チームの代表である佐藤教授は、「このシステムにより、特に早期がんや心疾患の診断における精度が大幅に向上しました。これからの医療の質を大きく変える可能性があります」とコメントした。
+この技術の導入により、地方の医療機関でも専門医レベルの診断が可能になり、医療格差の解消につながると期待されている。しかし、データのプライバシー保護やAIの判断への過度な依存に対する懸念も一部で指摘されている。
+
+政府はこの技術を推進するため、研究開発の助成金を増やす方針を発表した。今後、このシステムが全国の病院で本格導入されるかどうか、引き続き注目が集まる。
+2024-11-27 09:37:00.604 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是【大阪发】利用最新人工智能(AI)技术的医疗系统在全国范围内引起了关注,旨在提高患者的诊断准确性和减少医疗工作者负担。由大阪大学和全国最大的IT公司共同开发的该系统是人工智能分析影像学和病史数据并建议最佳治疗方法的机制。研究团队的代表佐藤教授评论道:“该系统显著提高了早期癌症和心脏病诊断的准确性,这可能会显著改变未来的医疗质量。” 预计该技术的引入也将允许地方医疗机构进行专科水平的诊断,从而消除医疗差异。然而,数据隐私保护和对过度依赖人工智能判断的担忧也在一小部分中被指出。 政府发布了一项政策,以增加研发补助金,以推动这一技术。 在未来,该系统是否会在全国范围内的医院正式推出,并将继续引起关注。
+2024-11-27 09:37:02.779 | INFO     | __main__:perform_translation:95 - 用户的输入是【大阪発】最新の人工知能（AI）技術を活用した医療システムが、患者の診断精度向上と医療従事者の負担軽減を目指し、全国的に注目を集めている。大阪大学と国内の大手IT企業が共同で開発したこのシステムは、AIが画像診断や病歴データを分析し、最適な治療方法を提案する仕組みだ。
+
+研究チームの代表である佐藤教授は、「このシステムにより、特に早期がんや心疾患の診断における精度が大幅に向上しました。これからの医療の質を大きく変える可能性があります」とコメントした。
+この技術の導入により、地方の医療機関でも専門医レベルの診断が可能になり、医療格差の解消につながると期待されている。しかし、データのプライバシー保護やAIの判断への過度な依存に対する懸念も一部で指摘されている。
+政府はこの技術を推進するため、研究開発の助成金を増やす方針を発表した。今後、このシステムが全国の病院で本格導入されるかどうか、引き続き注目が集まる。
+2024-11-27 09:37:07.184 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是【大阪发】利用最新人工智能(AI)技术的医疗系统在全国范围内引起了关注,旨在提高患者的诊断准确性和减少医疗工作者负担。由大阪大学和全国最大的IT公司共同开发的该系统是人工智能分析影像学和病史数据并建议最佳治疗方法的机制。研究团队的代表佐藤教授评论道:“该系统显著提高了早期癌症和心脏病诊断的准确性,这可能会显著改变未来的医疗质量。” 预计该技术的引入也将允许地方医疗机构进行专科水平的诊断,从而消除医疗差异。然而,数据隐私保护和对过度依赖人工智能判断的担忧也在一小部分中被指出。 政府发布了一项政策,以增加研发补助金,以推动这一技术。 在未来,该系统是否会在全国范围内的医院正式推出,并将继续引起关注。
+2024-11-27 09:37:07.254 | INFO     | __main__:perform_translation:95 - 用户的输入是【大阪発】最新の人工知能（AI）技術を活用した医療システムが、患者の診断精度向上と医療従事者の負担軽減を目指し、全国的に注目を集めている。大阪大学と国内の大手IT企業が共同で開発したこのシステムは、AIが画像診断や病歴データを分析し、最適な治療方法を提案する仕組みだ。
+研究チームの代表である佐藤教授は、「このシステムにより、特に早期がんや心疾患の診断における精度が大幅に向上しました。これからの医療の質を大きく変える可能性があります」とコメントした。
+この技術の導入により、地方の医療機関でも専門医レベルの診断が可能になり、医療格差の解消につながると期待されている。しかし、データのプライバシー保護やAIの判断への過度な依存に対する懸念も一部で指摘されている。
+政府はこの技術を推進するため、研究開発の助成金を増やす方針を発表した。今後、このシステムが全国の病院で本格導入されるかどうか、引き続き注目が集まる。
+2024-11-27 09:37:11.404 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是【大阪发】利用最新人工智能(AI)技术的医疗系统在全国范围内引起了关注,旨在提高患者的诊断准确性和减少医疗工作者负担。由大阪大学和全国最大的IT公司共同开发的该系统是人工智能分析影像学和病史数据并建议最佳治疗方法的机制。研究团队的代表佐藤教授评论道:“该系统显著提高了早期癌症和心脏病诊断的准确性,这可能会显著改变未来的医疗质量。” 预计该技术的引入也将允许地方医疗机构进行专科水平的诊断,从而消除医疗差异。然而,数据隐私保护和对过度依赖人工智能判断的担忧也在一小部分中被指出。 政府发布了一项政策,以增加研发补助金,以推动这一技术。 在未来,该系统是否会在全国范围内的医院正式推出,并将继续引起关注。
+2024-11-27 09:38:53.615 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 09:38:53.616 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 09:38:53
+2024-11-27 09:38:56.436 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 09:38:56.437 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 09:38:56
+2024-11-27 09:38:56.938 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 中文 (zh), 目标语言: 日语 (ja)
+2024-11-27 09:38:56.938 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-ja-final
+2024-11-27 09:38:59.005 | INFO     | __main__:perform_translation:95 - 用户的输入是【大阪発】最新の人工知能（AI）技術を活用した医療システムが、患者の診断精度向上と医療従事者の負担軽減を目指し、全国的に注目を集めている。大阪大学と国内の大手IT企業が共同で開発したこのシステムは、AIが画像診断や病歴データを分析し、最適な治療方法を提案する仕組みだ。
+研究チームの代表である佐藤教授は、「このシステムにより、特に早期がんや心疾患の診断における精度が大幅に向上しました。これからの医療の質を大きく変える可能性があります」とコメントした。
+この技術の導入により、地方の医療機関でも専門医レベルの診断が可能になり、医療格差の解消につながると期待されている。しかし、データのプライバシー保護やAIの判断への過度な依存に対する懸念も一部で指摘されている。
+政府はこの技術を推進するため、研究開発の助成金を増やす方針を発表した。今後、このシステムが全国の病院で本格導入されるかどうか、引き続き注目が集まる。
+2024-11-27 09:39:07.801 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是【大阪発】最新の人工知能(AI)技術は、医療システム、患者の診断精度向上、医療従事者の軽微な減圧、全国的な集中を可能にしています。大阪大学と国内の大手IT企業が共同で開設したシステム、AIの画像診断、病原性分析、最も適切な治療法の提案、仕組み。研究のチムは、佐藤教授、「システム」、特初期のチム病患者の診断、精度の大幅な向上を表しています。こらは、医療の質、可能性、あらは、コメトノイドです。こは、技術の導入、地方医療制度、専門医療の診断は、可視的、医療的差動、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視的、可視
+2024-11-27 09:39:09.325 | INFO     | __main__:perform_translation:95 - 用户的输入是  面向海外日本人的日语频道nhk world premium由在日本国内播放的新闻和信息节目、电视
+    剧、音乐节目、儿童节目、体育转播等节目组成，并进行24小时编排。全世界100多个国
+    家和地区的大约2000万户家庭可以收看。
+
+2024-11-27 09:39:10.970 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是海外日本人向けの日本語チャンネルnhk world premiumは、日本国内で放送されるニュースや情報番組、テレビ番組、音楽番組、子供向け番組、スポーツ放送などのプログラムで構成されており、24時間編成されています。世界中の100以上の国と地域の約2000万世帯が視聴できます。
+2024-11-27 09:39:13.470 | INFO     | __main__:perform_translation:95 - 用户的输入是  面向海外日本人的日语频道nhk world premium由在日本国内播放的新闻和信息节目、电视
+    剧、音乐节目、儿童节目、体育转播等节目组成，并进行24小时编排。全世界100多个国
+   家和地区的大约2000万户家庭可以收看。
+
+2024-11-27 09:39:15.057 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是海外日本人向けの日本語チャンネルnhk world premiumは、日本国内で放送されるニュースや情報番組、テレビ番組、音楽番組、子供向け番組、スポーツ放送などのプログラムで構成されており、24時間編成されています。世界中の100以上の国と地域の約2000万世帯が視聴できます。
+2024-11-27 09:39:15.139 | INFO     | __main__:perform_translation:95 - 用户的输入是  面向海外日本人的日语频道nhk world premium由在日本国内播放的新闻和信息节目、电视
+    剧、音乐节目、儿童节目、体育转播等节目组成，并进行24小时编排。全世界100多个国
+家和地区的大约2000万户家庭可以收看。
+
+2024-11-27 09:39:16.681 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是海外日本人向けの日本語チャンネルnhk world premiumは、日本国内で放送されるニュースや情報番組、テレビ番組、音楽番組、子供向け番組、スポーツ放送などのプログラムで構成されており、24時間編成されています。世界中の100以上の国と地域の約2000万世帯が視聴できます。
+2024-11-27 09:39:16.723 | INFO     | __main__:perform_translation:95 - 用户的输入是  面向海外日本人的日语频道nhk world premium由在日本国内播放的新闻和信息节目、电视
+    剧、音乐节目、儿童节目、体育转播等节目组成，并进行24小时编排。全世界100多个国家和地区的大约2000万户家庭可以收看。
+
+2024-11-27 09:39:18.160 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是海外日本人向けの日本語チャンネルnhk world premiumは、日本国内で放送されるニュースや情報番組、テレビ番組、音楽番組、子供向け番組、スポーツ放送などのプログラムで構成されており、24時間編成されています。世界中の100以上の国と地域で約2000万世帯が視聴できます。
+2024-11-27 09:39:18.198 | INFO     | __main__:perform_translation:95 - 用户的输入是  面向海外日本人的日语频道nhk world premium由在日本国内播放的新闻和信息节目、电视
+  剧、音乐节目、儿童节目、体育转播等节目组成，并进行24小时编排。全世界100多个国家和地区的大约2000万户家庭可以收看。
+
+2024-11-27 09:39:19.616 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是海外日本人向けの日本語チャンネルnhk world premiumは、日本国内で放送されるニュースや情報番組、テレビ番組、音楽番組、子供向け番組、スポーツ放送などのプログラムで構成されており、24時間編成されています。世界中の100以上の国と地域で約2000万世帯が視聴できます。
+2024-11-27 09:39:19.688 | INFO     | __main__:perform_translation:95 - 用户的输入是  面向海外日本人的日语频道nhk world premium由在日本国内播放的新闻和信息节目、电视剧、音乐节目、儿童节目、体育转播等节目组成，并进行24小时编排。全世界100多个国家和地区的大约2000万户家庭可以收看。
+
+2024-11-27 09:39:21.104 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是海外日本人向けの日本語チャンネルnhk world premiumは、日本国内で放送されるニュースや情報番組、テレビ番組、音楽番組、子供向け番組、スポーツ放送などのプログラムで構成されており、24時間編成されています。世界中の100以上の国と地域で約2000万世帯が視聴できます。
+2024-11-27 09:39:39.235 | INFO     | __main__:perform_translation:95 - 用户的输入是海外日本人向けの日本語チャンネルnhk world premiumは、日本国内で放送されるニュースや情報番組、テレビ番組、音楽番組、子供向け番組、スポーツ放送などのプログラムで構成されており、24時間編成されています。世界中の100以上の国と地域で約2000万世帯が視聴できます。
+
+2024-11-27 09:39:42.139 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 09:39:42.139 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 09:39:42
+2024-11-27 09:39:43.517 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 09:39:43.518 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 09:39:43
+2024-11-27 09:39:44.019 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 日语 (ja), 目标语言: 中文 (zh)
+2024-11-27 09:39:44.019 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-ja-zh-final
+2024-11-27 09:39:45.296 | INFO     | __main__:perform_translation:95 - 用户的输入是海外日本人向けの日本語チャンネルnhk world premiumは、日本国内で放送されるニュースや情報番組、テレビ番組、音楽番組、子供向け番組、スポーツ放送などのプログラムで構成されており、24時間編成されています。世界中の100以上の国と地域で約2000万世帯が視聴できます。
+
+2024-11-27 09:39:47.860 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是日本语频道nhk world premium,面向海外日本人,由新闻和信息节目、电视节目、音乐节目、儿童节目、体育广播等节目组成,全天候播出。全球超过100个国家和地区,约有2000万家庭可供观看。
+2024-11-27 09:39:48.995 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是海外の日本人は、日本語のチヤンヌンク・ウルルド・プレミム、日本国内にさわいニュース・情報番組、テレビアン組、音楽番組、子提供け番組、スポッツ放送どどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどどど
+2024-11-27 09:39:55.291 | INFO     | __main__:perform_translation:95 - 用户的输入是海外日本人向けの日本語チャンネルnhk world premiumは、日本国内で放送されるニュースや情報番組、テレビ番組、音楽番組、子供向け番組、スポーツ放送などのプログラムで構成されており、24時間編成されています。世界中の100以上の国と地域で約2000万世帯が視聴できます。
+ 
+2024-11-27 09:39:56.695 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是日本语频道nhk world premium,面向海外日本人,由新闻和信息节目、电视节目、音乐节目、儿童节目、体育广播等节目组成,全天候播出。全球超过100个国家和地区,约有2000万家庭可供观看。
+2024-11-27 09:39:56.769 | INFO     | __main__:perform_translation:95 - 用户的输入是海外日本人向けの日本語チャンネルnhk world premiumは、日本国内で放送されるニュースや情報番組、テレビ番組、音楽番組、子供向け番組、スポーツ放送などのプログラムで構成されており、24時間編成されています。世界中の100以上の国と地域で約2000万世帯が視聴できます。
+2024-11-27 09:39:57.999 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是日本语频道nhk world premium,面向海外日本人,由新闻和信息节目、电视节目、音乐节目、儿童节目、体育广播等节目组成,全天候播出。全球超过100个国家和地区,约有2000万家庭可供观看。
+2024-11-27 09:43:05.049 | INFO     | __main__:perform_translation:95 - 用户的输入是配
+2024-11-27 09:43:05.229 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Matching:
+2024-11-27 09:43:05.353 | INFO     | __main__:perform_translation:95 - 用户的输入是w
+2024-11-27 09:43:05.589 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是How was your day today?
+2024-11-27 09:43:05.659 | INFO     | __main__:perform_translation:95 - 用户的输入是w 
+2024-11-27 09:43:05.886 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是How was your day today?
+2024-11-27 09:43:06.066 | INFO     | __main__:perform_translation:95 - 用户的输入是w
+2024-11-27 09:43:06.294 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是How was your day today?
+2024-11-27 09:43:06.473 | INFO     | __main__:perform_translation:95 - 用户的输入是w
+2024-11-27 09:43:06.704 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是How was your day today?
+2024-11-27 09:43:06.829 | INFO     | __main__:perform_translation:95 - 用户的输入是我
+2024-11-27 09:43:06.962 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I,
+2024-11-27 09:43:07.032 | INFO     | __main__:perform_translation:95 - 用户的输入是我i
+2024-11-27 09:43:07.213 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I am
+2024-11-27 09:43:07.337 | INFO     | __main__:perform_translation:95 - 用户的输入是我
+2024-11-27 09:43:07.471 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I,
+2024-11-27 09:43:07.542 | INFO     | __main__:perform_translation:95 - 用户的输入是我y
+2024-11-27 09:43:07.770 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I love you.
+2024-11-27 09:43:07.948 | INFO     | __main__:perform_translation:95 - 用户的输入是我yi'j
+2024-11-27 09:43:08.180 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I am Yi'j.
+2024-11-27 09:43:08.355 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经
+2024-11-27 09:43:08.511 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I am already.
+2024-11-27 09:43:09.112 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经r
+2024-11-27 09:43:09.294 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already started.
+2024-11-27 09:43:09.417 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经ran
+2024-11-27 09:43:09.670 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I am already RAN.
+2024-11-27 09:43:09.822 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经rang
+2024-11-27 09:43:10.027 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I am already running.
+2024-11-27 09:43:10.277 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让
+2024-11-27 09:43:10.480 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already let go.
+2024-11-27 09:43:10.583 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让ji
+2024-11-27 09:43:10.883 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already let it go.
+2024-11-27 09:43:11.040 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术
+2024-11-27 09:43:11.268 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already let the technology.
+2024-11-27 09:43:11.398 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术ua
+2024-11-27 09:43:11.684 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already let the technology improve.
+2024-11-27 09:43:11.758 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术u'an
+2024-11-27 09:43:12.060 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already let the technology U'an
+2024-11-27 09:43:12.168 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术u
+2024-11-27 09:43:12.419 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already let the technology improve.
+2024-11-27 09:43:12.523 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术tu
+2024-11-27 09:43:12.809 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already let the technology improve.
+2024-11-27 09:43:12.983 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术tuan'd
+2024-11-27 09:43:13.337 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already let the technology be Tuan'd.
+2024-11-27 09:43:13.591 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术团队
+2024-11-27 09:43:13.847 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already let the technical team.
+2024-11-27 09:43:13.996 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术团队x
+2024-11-27 09:43:14.304 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already asked the technical team to:
+2024-11-27 09:43:14.353 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术团队
+2024-11-27 09:43:14.610 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already let the technical team.
+2024-11-27 09:43:14.709 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术团队q
+2024-11-27 09:43:15.040 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already asked the technical team to 1.
+2024-11-27 09:43:15.120 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术团队去
+2024-11-27 09:43:15.430 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already let the technical team go.
+2024-11-27 09:43:15.527 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术团队去jian'c
+2024-11-27 09:43:15.956 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already asked the technical team to go to Jian'c.
+2024-11-27 09:43:16.035 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术团队去检查
+2024-11-27 09:43:16.340 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already asked the technical team to check.
+2024-11-27 09:43:16.391 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术团队去检查了，
+2024-11-27 09:43:16.697 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already asked the technical team to check.
+2024-11-27 09:43:17.400 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术团队去检查了，j
+2024-11-27 09:43:17.758 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already asked the technical team to check, J.
+2024-11-27 09:43:17.862 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术团队去检查了，jin
+2024-11-27 09:43:18.217 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already asked the technical team to check, Jin.
+2024-11-27 09:43:18.421 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术团队去检查了，jin'k
+2024-11-27 09:43:18.828 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already asked the technical team to check, Jin'k.
+2024-11-27 09:43:19.031 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术团队去检查了，尽快hui
+2024-11-27 09:43:19.556 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already asked the technical team to check, HUI as soon as possible.
+2024-11-27 09:43:19.744 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术团队去检查了，尽快回复你i
+2024-11-27 09:43:20.318 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already asked the technical team to check and respond to you as soon as possible.
+2024-11-27 09:43:21.163 | INFO     | __main__:perform_translation:95 - 用户的输入是我已经让技术团队去检查了，尽快回复你
+2024-11-27 09:43:21.747 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I have already asked the technical team to check and get back to you as soon as possible.
+2024-11-27 09:48:54.164 | INFO     | __main__:perform_translation:95 - 用户的输入是w
+2024-11-27 09:48:54.416 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是How was your day today?
+2024-11-27 09:48:54.469 | INFO     | __main__:perform_translation:95 - 用户的输入是wm
+2024-11-27 09:48:54.606 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是WM
+2024-11-27 09:48:54.822 | INFO     | __main__:perform_translation:95 - 用户的输入是w
+2024-11-27 09:48:55.061 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是How was your day today?
+2024-11-27 09:48:55.329 | INFO     | __main__:perform_translation:95 - 用户的输入是w
+2024-11-27 09:48:55.565 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是How was your day today?
+2024-11-27 09:48:55.735 | INFO     | __main__:perform_translation:95 - 用户的输入是w'm
+2024-11-27 09:48:55.915 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是W'm
+2024-11-27 09:48:56.090 | INFO     | __main__:perform_translation:95 - 用户的输入是我们zhe'v
+2024-11-27 09:48:56.342 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We are zhe'v
+2024-11-27 09:48:56.394 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这v
+2024-11-27 09:48:56.593 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We are here.
+2024-11-27 09:48:56.698 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这vh
+2024-11-27 09:48:56.900 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We are here.
+2024-11-27 09:48:57.155 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这
+2024-11-27 09:48:57.329 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Here we are,
+2024-11-27 09:48:57.410 | INFO     | __main__:perform_translation:95 - 用户的输入是我们
+2024-11-27 09:48:57.539 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We,
+2024-11-27 09:48:57.764 | INFO     | __main__:perform_translation:95 - 用户的输入是我们zh
+2024-11-27 09:48:58.030 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We are at the end of the day.
+2024-11-27 09:48:58.120 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边
+2024-11-27 09:48:58.294 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是On our side,
+2024-11-27 09:48:58.424 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边hou
+2024-11-27 09:48:58.676 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是How are you here?
+2024-11-27 09:48:58.880 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边hou't
+2024-11-27 09:48:59.124 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Our side is Hou't.
+2024-11-27 09:48:59.284 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台mei
+2024-11-27 09:48:59.552 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have a backend Mei here.
+2024-11-27 09:48:59.689 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台mei'y
+2024-11-27 09:48:59.981 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Our backend Mei'y
+2024-11-27 09:49:00.201 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有ch
+2024-11-27 09:49:00.538 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是There is no CH in our backend.
+2024-11-27 09:49:00.762 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有cha'dao
+2024-11-27 09:49:01.171 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是There is no Cha'DAO in our backend.
+2024-11-27 09:49:01.320 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到zhe
+2024-11-27 09:49:01.793 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We didn't find anything in the backend here.
+2024-11-27 09:49:01.930 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到zhe
+2024-11-27 09:49:02.338 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We didn't find anything in the backend here.
+2024-11-27 09:49:02.437 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到zhe'tai
+2024-11-27 09:49:02.940 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We didn't find zhe'tai in the backend.
+2024-11-27 09:49:03.050 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台she'b
+2024-11-27 09:49:03.503 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We didn't find this SHE'B in the backend.
+2024-11-27 09:49:03.660 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的
+2024-11-27 09:49:04.058 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We did not find this device in the backend.
+2024-11-27 09:49:04.219 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的re
+2024-11-27 09:49:04.727 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We did not find the ERP of this device in the backend.
+2024-11-27 09:49:04.931 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何
+2024-11-27 09:49:05.345 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any of this device in the backend.
+2024-11-27 09:49:05.489 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何re
+2024-11-27 09:49:05.950 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any ESR of this device in the backend.
+2024-11-27 09:49:05.999 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何ri
+2024-11-27 09:49:06.460 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any RI of this device in the backend.
+2024-11-27 09:49:06.508 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何ri
+2024-11-27 09:49:06.965 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any RI of this device in the backend.
+2024-11-27 09:49:07.122 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志
+2024-11-27 09:49:07.582 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any logs of this device in the backend.
+2024-11-27 09:49:07.634 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志xin'x
+2024-11-27 09:49:08.198 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any logs of this device on our backend Xin'x.
+2024-11-27 09:49:08.243 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，
+2024-11-27 09:49:08.679 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend.
+2024-11-27 09:49:08.801 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，qi'g
+2024-11-27 09:49:09.403 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend, Qi'g.
+2024-11-27 09:49:09.561 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，qin
+2024-11-27 09:49:10.100 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend.
+2024-11-27 09:49:10.172 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请
+2024-11-27 09:49:10.656 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend, please.
+2024-11-27 09:49:10.831 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和
+2024-11-27 09:49:11.373 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend, please agree.
+2024-11-27 09:49:11.445 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和k
+2024-11-27 09:49:12.022 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend, please contact K.
+2024-11-27 09:49:12.154 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户que'r
+2024-11-27 09:49:12.862 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend, please contact the customer que'r.
+2024-11-27 09:49:12.967 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认
+2024-11-27 09:49:13.568 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend, please confirm with the customer.
+2024-11-27 09:49:13.730 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认y
+2024-11-27 09:49:14.354 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend, please confirm Y with the customer.
+2024-11-27 09:49:14.393 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认有an
+2024-11-27 09:49:15.125 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend. Please confirm with the customer if there is any.
+2024-11-27 09:49:15.256 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认有an'z
+2024-11-27 09:49:16.040 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend. Please confirm with the customer that there is an'z.
+2024-11-27 09:49:16.171 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认有按照
+2024-11-27 09:49:16.924 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend, please confirm with the customer if there is any.
+2024-11-27 09:49:19.100 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认有按
+2024-11-27 09:49:19.882 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend. Please confirm with the customer that there is a button.
+2024-11-27 09:49:20.017 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认有
+2024-11-27 09:49:20.740 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend, please confirm it with the customer.
+2024-11-27 09:49:20.936 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认
+2024-11-27 09:49:21.547 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend, please confirm with the customer.
+2024-11-27 09:49:22.050 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认s
+2024-11-27 09:49:22.653 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend, please confirm with the customer.
+2024-11-27 09:49:22.709 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认是狗
+2024-11-27 09:49:23.442 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend. Please confirm with the customer that it is a dog.
+2024-11-27 09:49:23.572 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认s
+2024-11-27 09:49:24.168 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend, please confirm with the customer.
+2024-11-27 09:49:24.234 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认shi'g
+2024-11-27 09:49:24.885 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend. Please confirm with the customer.
+2024-11-27 09:49:24.944 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认shi'f
+2024-11-27 09:49:25.545 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend. Please confirm with the customer.
+2024-11-27 09:49:25.655 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认是否
+2024-11-27 09:49:26.360 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend, please confirm with the customer whether it is.
+2024-11-27 09:49:26.618 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认是否z
+2024-11-27 09:49:27.335 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend. Please confirm with the customer whether it is Z.
+2024-11-27 09:49:27.381 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认是否zheng'q
+2024-11-27 09:49:28.158 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend. Please confirm with the customer whether it is Zheng'q.
+2024-11-27 09:49:28.198 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认是否正确cao
+2024-11-27 09:49:28.970 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend. Please confirm with the customer whether it is the correct CAO.
+2024-11-27 09:49:29.061 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认是否正确操作
+2024-11-27 09:49:29.781 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是We have not found any log information of this device in the backend, please confirm with the customer whether it is operated correctly.
+2024-11-27 09:57:09.543 | INFO     | __main__:perform_translation:95 - 用户的输入是compliance
+2024-11-27 09:57:09.759 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是合规
+2024-11-27 11:08:25.227 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 11:08:25.228 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 11:08:25
+2024-11-27 11:08:27.193 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 11:08:27.193 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 11:08:27
+2024-11-27 11:08:27.694 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 日语 (ja), 目标语言: 中文 (zh)
+2024-11-27 11:08:27.695 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-ja-zh-final
+2024-11-27 11:08:33.110 | INFO     | __main__:perform_translation:95 - 用户的输入是【大阪発】最新の人工知能（AI）技術を活用した医療システムが、患者の診断精度向上と医療従事者の負担軽減を目指し、全国的に注目を集めている。大阪大学と国内の大手IT企業が共同で開発したこのシステムは、AIが画像診断や病歴データを分析し、最適な治療方法を提案する仕組みだ。
+
+研究チームの代表である佐藤教授は、「このシステムにより、特に早期がんや心疾患の診断における精度が大幅に向上しました。これからの医療の質を大きく変える可能性があります」とコメントした。
+
+この技術の導入により、地方の医療機関でも専門医レベルの診断が可能になり、医療格差の解消につながると期待されている。しかし、データのプライバシー保護やAIの判断への過度な依存に対する懸念も一部で指摘されている。
+
+政府はこの技術を推進するため、研究開発の助成金を増やす方針を発表した。今後、このシステムが全国の病院で本格導入されるかどうか、引き続き注目が集まる。
+
+
+2024-11-27 11:08:36.961 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是【大阪发】利用最新人工智能(AI)技术的医疗系统在全国范围内引起了关注,旨在提高患者的诊断准确性和减少医疗工作者负担。由大阪大学和全国最大的IT公司共同开发的该系统是人工智能分析影像学和病史数据并建议最佳治疗方法的机制。研究团队的代表佐藤教授评论道:“该系统显著提高了早期癌症和心脏病诊断的准确性,这可能会显著改变未来的医疗质量。” 预计该技术的引入也将允许地方医疗机构进行专科水平的诊断,从而消除医疗差异。然而,数据隐私保护和对过度依赖人工智能判断的担忧也在一小部分中被指出。 政府发布了一项政策,以增加研发补助金,以推动这一技术。 在未来,该系统是否会在全国范围内的医院正式推出,并将继续引起关注。
+2024-11-27 11:11:00.288 | INFO     | __main__:perform_translation:95 - 用户的输入是海外の日本人向けの日本語チャンネル、NHKワ-ルド・プレミアムは、国内で放送されているニュ-ス・情報番組、ドラマ、音楽番組、子ども番組、スポ-ツ中继などから選んだ番組を24時間編成しています。世界の100以上の国·地域の約2,000万世帯で視聴できま寸。
+2024-11-27 11:11:01.769 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是海外日本人日本频道NHKwa-ld Premium正在组建24小时的节目,这些节目来自国家广播的细微差别信息节目、戏剧、音乐节目、儿童节目、斯波-图中继等。它距离全球100多个国家-地区约2,000万家庭可观看。
+2024-11-27 11:12:38.818 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 11:12:38.820 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 11:12:38
+2024-11-27 11:12:39.321 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 中文 (zh), 目标语言: 日语 (ja)
+2024-11-27 11:12:39.322 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-ja-final
+2024-11-27 11:12:41.367 | INFO     | __main__:perform_translation:95 - 用户的输入是好贵啊
+没想到这么贵
+真的太贵了
+2024-11-27 11:12:41.814 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是なんて高すぎるのだろう こんなに高すぎるとは思わなかった 本当に高すぎる
+2024-11-27 11:12:44.094 | INFO     | __main__:perform_translation:95 - 用户的输入是h
+2024-11-27 11:12:44.273 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是h
+2024-11-27 11:12:44.349 | INFO     | __main__:perform_translation:95 - 用户的输入是ha
+2024-11-27 11:12:44.480 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是haha
+2024-11-27 11:12:44.554 | INFO     | __main__:perform_translation:95 - 用户的输入是hao'd
+2024-11-27 11:12:44.725 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是hao'd
+2024-11-27 11:12:44.760 | INFO     | __main__:perform_translation:95 - 用户的输入是好的
+2024-11-27 11:12:44.874 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是いい
+2024-11-27 11:12:44.966 | INFO     | __main__:perform_translation:95 - 用户的输入是好的
+
+2024-11-27 11:12:45.096 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是いい
+2024-11-27 11:12:50.158 | INFO     | __main__:perform_translation:95 - 用户的输入是j
+2024-11-27 11:12:57.142 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是j j . j . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2024-11-27 11:12:57.197 | INFO     | __main__:perform_translation:95 - 用户的输入是加油
+
+2024-11-27 11:12:57.352 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是頑張れ
+2024-11-27 11:12:58.158 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是がんばって
+2024-11-27 11:13:07.731 | INFO     | __main__:perform_translation:95 - 用户的输入是h
+2024-11-27 11:13:07.911 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是h
+2024-11-27 11:13:07.984 | INFO     | __main__:perform_translation:95 - 用户的输入是ha
+2024-11-27 11:13:08.110 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是haha
+2024-11-27 11:13:08.137 | INFO     | __main__:perform_translation:95 - 用户的输入是hao'd
+2024-11-27 11:13:08.298 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是hao'd
+2024-11-27 11:13:08.393 | INFO     | __main__:perform_translation:95 - 用户的输入是hao'de
+2024-11-27 11:13:08.554 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是hao'de
+2024-11-27 11:13:08.598 | INFO     | __main__:perform_translation:95 - 用户的输入是好的
+2024-11-27 11:13:08.701 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是いい
+2024-11-27 11:13:08.750 | INFO     | __main__:perform_translation:95 - 用户的输入是好的
+
+2024-11-27 11:13:08.857 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是いい
+2024-11-27 11:13:14.982 | INFO     | __main__:perform_gpt_translation:170 - GPT-4o翻译结果是わかりました
+2024-11-27 11:17:09.340 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 11:17:09.341 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 11:17:09
+2024-11-27 11:17:10.551 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 11:17:10.552 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 11:17:10
+2024-11-27 11:17:11.053 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 韩语 (ko), 目标语言: 中文 (zh)
+2024-11-27 11:17:11.053 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-ko-zh-final
+2024-11-27 11:17:12.457 | INFO     | __main__:perform_translation:95 - 用户的输入是海外の日本人向けの日本語チャンネル、NHKワ-ルド・プレミアムは、国内で放送されているニュ-ス・情報番組、ドラマ、音楽番組、子ども番組、スポ-ツ中继などから選んだ番組を24時間編成しています。世界の100以上の国·地域の約2,000万世帯で視聴できま寸。
+2024-11-27 11:17:15.911 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是海洋の日本の人とけの日本語チャンネル、NHKワルド・プレミアムは、國內に放されているニュー・ス・情報の番組組、ドラマ、音楽番組、子ども番組、スポ-ツ中のなどから選んだ番組を24時間編成しています。世界の100にの國・地域の約2,000萬世帶で視聽きます。
+2024-11-27 11:17:16.918 | INFO     | __main__:perform_translation:95 - 用户的输入是【서울발】11월 27일, 대한민국 정부는 탄소 배출을 줄이고 지속 가능한 발전을 위해 전기차(EV) 보급을 확대하기 위한 새로운 정책을 발표했다. 이 정책은 2035년까지 국내에서 판매되는 신차의 70%를 전기차로 전환하는 것을 목표로 하고 있다.
+
+산업통상자원부의 김민수 장관은 "전기차 보급은 기후 위기 대응뿐만 아니라 국내 자동차 산업의 경쟁력을 강화하는 중요한 기회가 될 것입니다"라고 강조했다. 또한 전기차 구매 보조금 확대와 충전 인프라 구축을 위해 2조 원 규모의 예산을 투입할 계획도 밝혔다.
+
+이에 따라, 국내 자동차 제조업체들은 전기차 신모델 개발에 박차를 가하고 있으며, 소비자들 사이에서는 전기차 구매에 대한 관심이 높아지고 있다. 그러나 일부 전문가들은 배터리 원료 공급망 안정화와 폐배터리 재활용 문제 해결이 필요하다고 지적하고 있다.
+
+정부는 이와 함께, 전기차 기술 혁신을 위한 연구 개발 지원을 강화하고 관련 기업들과의 협력을 통해 시장 확대를 추진할 방침이다.
+2024-11-27 11:17:21.899 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是【首尔爪】11月27日,韩国政府宣布了一项新政策,旨在减少碳排放并扩大电动汽车(EV)的普及,以实现可持续发展。该政策旨在到2035年将70%的国内新车转向电动车。工业和贸易部的金敏洙部长强调,“电动车的普及将是一个重要的机会,不仅有助于应对气候危机,还能增强国内汽车工业的竞争力。”它还计划投入2万亿韩元的预算,以扩大电动车采购补贴并建立充电基础设施。作为回应,国内汽车制造商正在推动电动车新车型的发展,消费者对电动车采购的兴趣日益增长。然而,一些专家指出,电池原料供应链稳定和废电池回收问题需要解决。政府与此一起,加强对电动车技术创新的研发支持,并通过与相关公司的合作推动市场扩张。
+2024-11-27 11:21:58.908 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 11:21:58.908 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 11:21:58
+2024-11-27 11:22:00.173 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 11:22:00.174 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 11:22:00
+2024-11-27 11:22:00.675 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 日语 (ja), 目标语言: 中文 (zh)
+2024-11-27 11:22:00.675 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-ja-zh-final
+2024-11-27 11:22:02.066 | INFO     | __main__:perform_translation:95 - 用户的输入是【서울발】11월 27일, 대한민국 정부는 탄소 배출을 줄이고 지속 가능한 발전을 위해 전기차(EV) 보급을 확대하기 위한 새로운 정책을 발표했다. 이 정책은 2035년까지 국내에서 판매되는 신차의 70%를 전기차로 전환하는 것을 목표로 하고 있다.
+
+산업통상자원부의 김민수 장관은 "전기차 보급은 기후 위기 대응뿐만 아니라 국내 자동차 산업의 경쟁력을 강화하는 중요한 기회가 될 것입니다"라고 강조했다. 또한 전기차 구매 보조금 확대와 충전 인프라 구축을 위해 2조 원 규모의 예산을 투입할 계획도 밝혔다.
+
+이에 따라, 국내 자동차 제조업체들은 전기차 신모델 개발에 박차를 가하고 있으며, 소비자들 사이에서는 전기차 구매에 대한 관심이 높아지고 있다. 그러나 일부 전문가들은 배터리 원료 공급망 안정화와 폐배터리 재활용 문제 해결이 필요하다고 지적하고 있다.
+
+정부는 이와 함께, 전기차 기술 혁신을 위한 연구 개발 지원을 강화하고 관련 기업들과의 협력을 통해 시장 확대를 추진할 방침이다.
+2024-11-27 11:22:18.061 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是【第三十七条 其中一件事是]11闰 27闰, 第十四七条 其中一件事是 4.8°日下午 茶园 4.8°日下午 半天 半天 半天 (EV) 半天 半天 半天 半天 (EV) 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天 半天
+2024-11-27 11:22:20.524 | INFO     | __main__:perform_translation:95 - 用户的输入是【東京発】11月27日、日本政府は、再生可能エネルギーの導入を加速させるための新たな政策を発表した。この政策では、2030年までに全国の電力供給の50％を再生可能エネルギーで賄うことを目標としている。
+
+経済産業省の山田大臣は記者会見で、「気候変動に対応するためには、再生可能エネルギーの普及が不可欠です。この政策は環境と経済の両立を目指すものです」と述べた。また、風力発電や太陽光発電の設置拡大に向けて、地域の合意形成を進めるための支援策も発表された。
+
+一方で、一部の地域では発電設備の景観や騒音に関する懸念の声も上がっている。専門家は、「地域住民との協力がこの政策の成功に鍵を握る」と指摘している。
+
+政府は今後、企業や自治体と連携し、再生可能エネルギーの利用拡大に向けた具体的な取り組みを進める予定だ。
+2024-11-27 11:22:23.758 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是【东京发】11月27日,日本政府发布了一项新政策,以加快可再生能源的引入,该政策旨在到2030年通过可再生能源覆盖全国50%的电力供应。 经济和工业部的山田部长在新闻发布会上表示,“为了应对气候变化,可再生能源的普及至关重要,这一政策旨在平衡环境和经济。” 还宣布了一项支持措施,以推动区域共识的发展,以扩大风能和太阳能的安装。 与此同时,一些地区对发电设施的景观和噪音表示担忧。专家指出,“与当地居民合作将为这一政策的成功奠定基础。” 政府计划在未来与公司和市政当局合作,推进具体举措,以扩大可再生能源的使用。
+2024-11-27 11:43:07.395 | INFO     | __main__:check_and_load_model:192 - =============================================
+2024-11-27 11:43:07.396 | INFO     | __main__:check_and_load_model:194 - 时间: 2024-11-27 11:43:07
+2024-11-27 11:43:10.720 | INFO     | __main__:check_and_load_model:192 - =============================================
+2024-11-27 11:43:10.721 | INFO     | __main__:check_and_load_model:194 - 时间: 2024-11-27 11:43:10
+2024-11-27 11:43:11.222 | INFO     | __main__:check_and_load_model:199 - 选择的源语言: 中文 (zh), 目标语言: 英文 (en)
+2024-11-27 11:43:11.222 | INFO     | __main__:check_and_load_model:200 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-en-final
+2024-11-27 11:43:16.899 | INFO     | __main__:perform_translation:168 - 用户的输入是h
+2024-11-27 11:43:17.934 | INFO     | __main__:perform_translation:172 - 自研模型翻译结果是The weather is really nice today.
+2024-11-27 11:43:18.005 | INFO     | __main__:perform_translation:168 - 用户的输入是和嗯咯
+2024-11-27 11:43:18.224 | INFO     | __main__:perform_translation:172 - 自研模型翻译结果是And uh-huh.
+2024-11-27 11:51:24.738 | INFO     | __main__:check_and_load_model:192 - =============================================
+2024-11-27 11:51:24.739 | INFO     | __main__:check_and_load_model:194 - 时间: 2024-11-27 11:51:24
+2024-11-27 12:19:48.897 | INFO     | __main__:get_multilang_model:400 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 12:23:46.984 | INFO     | __main__:get_multilang_model:400 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 12:24:45.624 | INFO     | __main__:get_multilang_model:400 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 12:31:50.375 | INFO     | __main__:get_multilang_model:402 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 12:32:04.749 | INFO     | __main__:perform_multilang_translation:431 - 用户输入: h
+2024-11-27 12:32:29.108 | INFO     | __main__:perform_multilang_translation:435 - 翻译结果: s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s
+2024-11-27 14:24:40.832 | INFO     | __main__:get_multilang_model:398 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 14:32:02.772 | INFO     | __main__:get_multilang_model:398 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 14:32:14.126 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:14.228 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:14.381 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:14.481 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:15.287 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:15.389 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:15.540 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:16.046 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:16.250 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:16.403 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:16.506 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:16.808 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:16.910 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:17.215 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:17.319 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:17.370 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:17.774 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:18.077 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:18.179 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:18.380 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:18.482 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:32:18.684 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: add_language_ids() missing 2 required positional arguments: 'src_lang' and 'tgt_lang'
+2024-11-27 14:33:12.888 | INFO     | __main__:get_multilang_model:398 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 14:33:18.969 | ERROR    | __main__:perform_multilang_translation:466 - 翻译错误: Tensors must have same number of dimensions: got 1 and 2
+2024-11-27 14:38:32.616 | INFO     | __main__:get_multilang_model:398 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 14:38:40.165 | ERROR    | __main__:perform_multilang_translation:467 - 翻译错误: 'labels'
+2024-11-27 14:40:49.277 | INFO     | __main__:get_multilang_model:398 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 14:40:55.718 | ERROR    | __main__:perform_multilang_translation:467 - 翻译错误: 'TranslationApp' object has no attribute 'augment'
+2024-11-27 14:41:47.900 | INFO     | __main__:get_multilang_model:398 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 14:41:52.138 | ERROR    | __main__:perform_multilang_translation:467 - 翻译错误: 'TranslationApp' object has no attribute 'augment'
+2024-11-27 14:42:12.318 | INFO     | __main__:get_multilang_model:395 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 14:42:17.091 | ERROR    | __main__:perform_multilang_translation:464 - 翻译错误: not enough values to unpack (expected 2, got 1)
+2024-11-27 14:44:10.256 | INFO     | __main__:get_multilang_model:395 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 14:47:27.606 | INFO     | __main__:get_multilang_model:395 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 14:48:47.665 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 14:48:47.666 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 14:48:47
+2024-11-27 14:48:48.977 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 14:48:48.978 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 14:48:48
+2024-11-27 14:48:49.479 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 英文 (en), 目标语言: 中文 (zh)
+2024-11-27 14:48:49.480 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-en-zh-final
+2024-11-27 14:48:50.765 | INFO     | __main__:perform_translation:95 - 用户的输入是我们这边后台没有查到这台设备的任何日志信息，请和客户确认是否正确操作
+2024-11-27 14:48:58.846 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是,
+2024-11-27 14:49:01.394 | INFO     | __main__:get_multilang_model:395 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 14:49:03.388 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 14:49:03.389 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 14:49:03
+2024-11-27 14:49:04.699 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 14:49:04.699 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 14:49:04
+2024-11-27 14:49:05.200 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 英文 (en), 目标语言: 中文 (zh)
+2024-11-27 14:49:05.201 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-en-zh-final
+2024-11-27 14:49:08.018 | INFO     | __main__:perform_translation:95 - 用户的输入是Dear Frank,
+
+in order to fulfil this order, there are various bodies that check the process. Unfortunately, I have been informed of some security concerns here.
+Among other things, there are concerns about the lack of an order data processing contract and the fact that the data is only processed locally.
+
+Even after lengthy discussions, the relevant body sees no chance of changing this decision this calendar year.
+
+I have been working many extra hours since the beginning of September to integrate your products into our school system, so I regret this decision. I would like to take this opportunity to thank you for your co-operation so far.
+
+Please send me the data for returning the test models again.
+2024-11-27 14:49:11.119 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是亲爱的弗兰克,为了履行这个订单,有各种机构检查这个过程。不幸的是,我在这里被告知了一些安全问题。除此之外,还有关于缺乏订单数据处理合同的担忧,以及数据仅在本地处理的事实。即使在经过长时间的讨论后,相关机构也看不到今年日历年改变这个决定的机会。自九月初以来,我一直在加班,将您的产品整合到我们的学校系统中,因此我对这个决定感到遗憾。我想借此机会感谢您迄今为止的合作。请将数据发送给我,以便再次返回测试模型。
+2024-11-27 14:49:33.943 | INFO     | __main__:get_multilang_model:395 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 14:51:49.161 | INFO     | __main__:get_multilang_model:397 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 15:01:10.157 | INFO     | __main__:check_and_load_model:203 - =============================================
+2024-11-27 15:01:10.158 | INFO     | __main__:check_and_load_model:205 - 时间: 2024-11-27 15:01:10
+2024-11-27 15:01:12.275 | INFO     | __main__:check_and_load_model:203 - =============================================
+2024-11-27 15:01:12.276 | INFO     | __main__:check_and_load_model:205 - 时间: 2024-11-27 15:01:12
+2024-11-27 15:01:12.778 | INFO     | __main__:check_and_load_model:210 - 选择的源语言: 中文 (zh), 目标语言: 英文 (en)
+2024-11-27 15:01:12.778 | INFO     | __main__:check_and_load_model:211 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-en-final
+2024-11-27 15:01:15.638 | INFO     | __main__:perform_translation:179 - 用户的输入是h
+2024-11-27 15:01:15.973 | INFO     | __main__:perform_translation:183 - 自研模型翻译结果是The weather is really nice today.
+2024-11-27 15:01:17.052 | INFO     | __main__:perform_translation:179 - 用户的输入是n
+2024-11-27 15:01:17.312 | INFO     | __main__:perform_translation:183 - 自研模型翻译结果是How was your day today?
+2024-11-27 15:01:17.357 | INFO     | __main__:perform_translation:179 - 用户的输入是ni'h
+2024-11-27 15:01:17.590 | INFO     | __main__:perform_translation:183 - 自研模型翻译结果是Ni'h
+2024-11-27 15:01:17.868 | INFO     | __main__:perform_translation:179 - 用户的输入是你好
+2024-11-27 15:01:18.051 | INFO     | __main__:perform_translation:183 - 自研模型翻译结果是Hello,
+2024-11-27 15:02:17.731 | INFO     | __main__:get_multilang_model:397 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 15:20:12.925 | INFO     | __main__:perform_translation:95 - 用户的输入是q
+2024-11-27 15:20:13.145 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是q
+2024-11-27 15:20:13.233 | INFO     | __main__:perform_translation:95 - 用户的输入是qin
+2024-11-27 15:20:13.466 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是秦
+2024-11-27 15:20:13.542 | INFO     | __main__:perform_translation:95 - 用户的输入是qing
+2024-11-27 15:20:13.711 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是清
+2024-11-27 15:20:13.846 | INFO     | __main__:perform_translation:95 - 用户的输入是qi
+2024-11-27 15:20:14.051 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是qi
+2024-11-27 15:20:14.203 | INFO     | __main__:perform_translation:95 - 用户的输入是i
+2024-11-27 15:20:14.347 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是我
+2024-11-27 15:20:14.457 | INFO     | __main__:perform_translation:95 - 用户的输入是iqn
+2024-11-27 15:20:14.633 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是iqn
+2024-11-27 15:20:14.662 | INFO     | __main__:perform_translation:95 - 用户的输入是i'qng'w
+2024-11-27 15:20:14.853 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是我和他们在一起
+2024-11-27 15:20:14.916 | INFO     | __main__:perform_translation:95 - 用户的输入是iqng
+2024-11-27 15:20:15.102 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是iqng
+2024-11-27 15:20:15.171 | INFO     | __main__:perform_translation:95 - 用户的输入是iq
+2024-11-27 15:20:15.322 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是iq
+2024-11-27 15:20:15.374 | INFO     | __main__:perform_translation:95 - 用户的输入是i
+2024-11-27 15:20:15.493 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是我
+2024-11-27 15:20:15.832 | INFO     | __main__:perform_translation:95 - 用户的输入是q
+2024-11-27 15:20:16.022 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是q
+2024-11-27 15:20:16.084 | INFO     | __main__:perform_translation:95 - 用户的输入是q'w
+2024-11-27 15:20:16.283 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是q'w
+2024-11-27 15:20:16.441 | INFO     | __main__:perform_translation:95 - 用户的输入是请问
+2024-11-27 15:20:23.981 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-11-27 15:20:24.277 | INFO     | __main__:perform_translation:95 - 用户的输入是s
+2024-11-27 15:20:24.430 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是s
+2024-11-27 15:20:24.532 | INFO     | __main__:perform_translation:95 - 用户的输入是shi
+2024-11-27 15:20:24.712 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是shi
+2024-11-27 15:20:24.786 | INFO     | __main__:perform_translation:95 - 用户的输入是是否
+2024-11-27 15:20:24.995 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是调音器
+2024-11-27 15:20:25.089 | INFO     | __main__:perform_translation:95 - 用户的输入是是
+2024-11-27 15:20:25.230 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是e
+2024-11-27 15:20:28.015 | INFO     | __main__:perform_translation:95 - 用户的输入是q
+2024-11-27 15:20:28.228 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是q
+2024-11-27 15:20:28.268 | INFO     | __main__:perform_translation:95 - 用户的输入是qin
+2024-11-27 15:20:28.504 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是秦
+2024-11-27 15:20:28.574 | INFO     | __main__:perform_translation:95 - 用户的输入是qing'w
+2024-11-27 15:20:28.841 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是qing'w
+2024-11-27 15:20:28.979 | INFO     | __main__:perform_translation:95 - 用户的输入是请问
+2024-11-27 15:20:37.011 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-11-27 15:20:37.084 | INFO     | __main__:perform_translation:95 - 用户的输入是是否可以告知我们付款
+2024-11-27 15:20:45.324 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-11-27 15:20:45.420 | INFO     | __main__:perform_translation:95 - 用户的输入是是否可以告知我们计划付款时间呢？这样我们
+2024-11-27 15:20:54.073 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是
+2024-11-27 15:20:54.132 | INFO     | __main__:perform_translation:95 - 用户的输入是是否可以告知我们计划付款时间呢？这样我们才能和财务部门核对
+2024-11-27 15:20:54.945 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 15:20:54.945 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 15:20:54
+2024-11-27 15:20:58.414 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 15:20:58.415 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 15:20:58
+2024-11-27 15:20:58.916 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 中文 (zh), 目标语言: 英文 (en)
+2024-11-27 15:20:58.917 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-en-final
+2024-11-27 15:21:00.218 | INFO     | __main__:perform_translation:95 - 用户的输入是是否可以告知我们计划付款时间呢？这样我们才能和财务部门核对
+2024-11-27 15:21:02.456 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Can we inform us of the planned payment time? This way, we can verify with the financial department.
+2024-11-27 15:21:04.644 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是
+2024-11-27 15:21:09.394 | INFO     | __main__:perform_translation:95 - 用户的输入是是否可以告知我们计划付款时间呢？这样我们才能和财务部门核对
+2024-11-27 15:21:10.061 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Can we inform us of the planned payment time? This way, we can verify with the financial department.
+2024-11-27 15:21:15.497 | INFO     | __main__:perform_translation:95 - 用户的输入是n是否可以告知我们计划付款时间呢？这样我们才能和财务部门核对
+2024-11-27 15:21:16.132 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Can we inform us of the planned payment time? This way, we can verify with the financial department.
+2024-11-27 15:21:16.208 | INFO     | __main__:perform_translation:95 - 用户的输入是你是否可以告知我们计划付款时间呢？这样我们才能和财务部门核对
+2024-11-27 15:21:16.820 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Can you inform us of the planned payment time? This way, we can verify with the financial department.
+2024-11-27 15:21:16.923 | INFO     | __main__:perform_translation:95 - 用户的输入是你
+是否可以告知我们计划付款时间呢？这样我们才能和财务部门核对
+2024-11-27 15:21:17.538 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Can you inform us of the planned payment time? This way, we can verify with the financial department.
+2024-11-27 15:21:17.588 | INFO     | __main__:perform_translation:95 - 用户的输入是你是否可以告知我们计划付款时间呢？这样我们才能和财务部门核对
+2024-11-27 15:21:18.198 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Can you inform us of the planned payment time? This way, we can verify with the financial department.
+2024-11-27 15:22:02.737 | INFO     | __main__:perform_translation:95 - 用户的输入是Can you inform us of the planned payment date? 
+So that we can verify with our financial department, thank you.
+2024-11-27 15:22:03.430 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Can you inform us of theplanned payment date? So that we can verify with our financial development, thank you.
+2024-11-27 15:23:58.130 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 15:23:58.131 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 15:23:58
+2024-11-27 15:23:59.613 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 15:23:59.614 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 15:23:59
+2024-11-27 15:24:00.115 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 英文 (en), 目标语言: 中文 (zh)
+2024-11-27 15:24:00.115 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-en-zh-final
+2024-11-27 15:24:01.308 | INFO     | __main__:perform_translation:95 - 用户的输入是Can you inform us of the planned payment date? 
+So that we can verify with our financial department, thank you.
+2024-11-27 15:24:01.921 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是你能告诉我们计划的付款日期吗?这样我们就可以与我们的财务部门核实,谢谢。
+2024-11-27 15:26:06.685 | INFO     | __main__:perform_translation:95 - 用户的输入是Thank you for providing the following invoices.  Several invoices from September and October are still missing.  If you reference column V on our spreadsheet you will see orders highlighted in Cyan. This indicates I do not have an invoice for the order.  If possible, can you provide invoices for any remaining orders from September and October?  I would like to include those with my November payment.
+2024-11-27 15:26:09.062 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是感谢您提供以下发票。九月和十月的几张发票仍然缺失。如果您在我们的电子表格中引用第五列,您将看到在青色中突出显示的订单。这表明我没有该订单的发票。如果可能的话,您能提供九月和十月剩余订单的发票吗?我希望在十一月的付款中包括这些。
+2024-11-27 15:36:25.659 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 15:36:25.660 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 15:36:25
+2024-11-27 15:36:28.482 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 15:36:28.482 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 15:36:28
+2024-11-27 15:36:28.983 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 中文 (zh), 目标语言: 俄语 (ru)
+2024-11-27 15:36:28.984 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-ru-final
+2024-11-27 15:36:35.437 | INFO     | __main__:perform_translation:95 - 用户的输入是各位玩各位关注众晚上好欢迎收看新闻联播你有什么想说的吗
+2024-11-27 15:36:36.879 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Вы, ребята, играете, подписывайтесь на вечеринки, добро пожаловать в новостной сериал, есть ли что-то, что вы хотели бы сказать?
+2024-11-27 15:37:01.814 | INFO     | __main__:perform_translation:95 - 用户的输入是你好你好你在干什么今天天气怎么样还好吗,1月345六七比赛干什么速度怎么样这个速度,还不错信呢还好,
+2024-11-27 15:37:03.347 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Здравствуйте, что вы делаете сегодня, как насчет погоды, как насчет скорости, с которой вы делаете гонку 345 шесть семь в январе, неплохое письмо.
+2024-11-27 15:37:22.338 | INFO     | __main__:perform_translation:95 - 用户的输入是我的航班被取消了我想请问如果要办理改签要去哪一个柜台办，
+2024-11-27 15:37:23.306 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Мой рейс был отменен, и я хотел бы спросить, в какой стойке, если я собираюсь зарегистрироваться, чтобы поехать.
+2024-11-27 15:37:39.534 | INFO     | __main__:perform_translation:95 - 用户的输入是我说一句话，我再说一句话，帮我翻译一下，，
+2024-11-27 15:37:40.188 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Я говорю одно, я говорю еще одно, помоги мне перевести, , ,
+2024-11-27 15:38:04.892 | INFO     | __main__:perform_translation:95 - 用户的输入是第一个,,有基于计算机的语音合生系统在50年代后期诞生第一个完整的ts系统
+2024-11-27 15:38:05.721 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Первый, с компьютерными системами голосовой ассимиляции, родилась первая полная система ts в конце 50-х годов.
+2024-11-27 15:38:24.097 | INFO     | __main__:perform_translation:95 - 用户的输入是一周来市场反应积极市场信心回归新房项目销售成交喜报频传
+2024-11-27 15:38:24.882 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Неделя за неделей рыночная реакция положительная рыночная уверенность возвращается к продажам новых домов.
+2024-11-27 15:45:47.516 | INFO     | __main__:get_multilang_model:397 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-27 15:55:49.213 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 15:55:49.214 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 15:55:49
+2024-11-27 15:55:53.697 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 15:55:53.698 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 15:55:53
+2024-11-27 15:55:54.199 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 中文 (zh), 目标语言: 英文 (en)
+2024-11-27 15:55:54.200 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-en-final
+2024-11-27 15:56:01.249 | INFO     | __main__:perform_translation:95 - 用户的输入是w
+2024-11-27 15:56:01.517 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是How was your day today?
+2024-11-27 15:56:01.656 | INFO     | __main__:perform_translation:95 - 用户的输入是w ye
+2024-11-27 15:56:01.804 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是w ye
+2024-11-27 15:56:01.858 | INFO     | __main__:perform_translation:95 - 用户的输入是w ye 
+2024-11-27 15:56:02.032 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是w ye
+2024-11-27 15:56:02.113 | INFO     | __main__:perform_translation:95 - 用户的输入是w y
+2024-11-27 15:56:02.264 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是w y
+2024-11-27 15:56:02.369 | INFO     | __main__:perform_translation:95 - 用户的输入是w
+2024-11-27 15:56:02.597 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是How was your day today?
+2024-11-27 15:56:02.672 | INFO     | __main__:perform_translation:95 - 用户的输入是w
+2024-11-27 15:56:02.898 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是How was your day today?
+2024-11-27 15:56:02.928 | INFO     | __main__:perform_translation:95 - 用户的输入是我y
+2024-11-27 15:56:03.150 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I love you.
+2024-11-27 15:56:03.181 | INFO     | __main__:perform_translation:95 - 用户的输入是我也
+2024-11-27 15:56:03.330 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Me too.
+2024-11-27 15:56:03.384 | INFO     | __main__:perform_translation:95 - 用户的输入是我也z
+2024-11-27 15:56:03.625 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I love it too.
+2024-11-27 15:56:03.688 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在
+2024-11-27 15:56:03.885 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I am also here.
+2024-11-27 15:56:04.393 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在A
+2024-11-27 15:56:04.731 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I am also here.
+2024-11-27 15:56:04.799 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD
+2024-11-27 15:56:05.044 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I am also in AD.
+2024-11-27 15:56:05.256 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在ADli
+2024-11-27 15:56:05.499 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I am also at ADLI.
+2024-11-27 15:56:05.565 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在ADlie
+2024-11-27 15:56:05.854 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I am also at Adile.
+2024-11-27 15:56:05.920 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列
+2024-11-27 15:56:06.246 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I am also in the ADC series.
+2024-11-27 15:56:06.325 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列y
+2024-11-27 15:56:06.647 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I am also in the ADC series.
+2024-11-27 15:56:06.781 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列yong
+2024-11-27 15:56:07.171 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I am also in the AD series YONG.
+2024-11-27 15:56:07.242 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用
+2024-11-27 15:56:07.597 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I am also using it in the ADC series.
+2024-11-27 15:56:07.650 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用qi
+2024-11-27 15:56:08.073 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I am also using AI in the ADC series.
+2024-11-27 15:56:08.156 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用qing'se
+2024-11-27 15:56:08.627 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I also use Qing'se in the AD series.
+2024-11-27 15:56:08.714 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用qing's
+2024-11-27 15:56:09.154 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I also use Qing's in the AD series.
+2024-11-27 15:56:09.222 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用qi'ne
+2024-11-27 15:56:09.649 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I also use Qi'ne in the AD series.
+2024-11-27 15:56:09.731 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用qin'q
+2024-11-27 15:56:10.153 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I also use QIN'Q in the AD column.
+2024-11-27 15:56:10.337 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用qin
+2024-11-27 15:56:10.736 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I also use QIN in the ADC series.
+2024-11-27 15:56:10.845 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用qin'se
+2024-11-27 15:56:11.269 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I also use Qin'se in the AD series.
+2024-11-27 15:56:11.304 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用qin's
+2024-11-27 15:56:11.725 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I also use Qin's in the AD series.
+2024-11-27 15:56:11.768 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用qing's
+2024-11-27 15:56:12.162 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I also use Qing's in the AD series.
+2024-11-27 15:56:12.227 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用qing'se
+2024-11-27 15:56:12.647 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I also use Qing'se in the AD series.
+2024-11-27 15:56:13.147 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用青色
+2024-11-27 15:56:13.465 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I also use cyan in the AD series.
+2024-11-27 15:56:13.553 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用青色gao
+2024-11-27 15:56:13.945 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I also use a cyan GAO in the ADC series.
+2024-11-27 15:56:14.013 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用青色gao'g
+2024-11-27 15:56:14.428 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I also use blue gao'g in the AD series.
+2024-11-27 15:56:14.470 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用青色gao'gu
+2024-11-27 15:56:14.887 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I also use a blue gao'gu in the AD series.
+2024-11-27 15:56:14.977 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用青色gao'guang
+2024-11-27 15:56:15.392 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I also use blue gao'guang in the AD series.
+2024-11-27 15:56:15.485 | INFO     | __main__:perform_translation:95 - 用户的输入是我也在AD列用青色高光
+2024-11-27 15:56:15.829 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是I also use cyan highlights in the AD series.
+2024-11-27 15:56:30.272 | INFO     | __main__:perform_translation:95 - 用户的输入是column
+2024-11-27 15:56:30.444 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Column
+2024-11-27 15:56:32.092 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 15:56:32.092 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 15:56:32
+2024-11-27 15:56:34.473 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 15:56:34.474 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 15:56:34
+2024-11-27 15:56:34.975 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 英文 (en), 目标语言: 中文 (zh)
+2024-11-27 15:56:34.975 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-en-zh-final
+2024-11-27 15:56:36.118 | INFO     | __main__:perform_translation:95 - 用户的输入是column
+2024-11-27 15:56:36.266 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是列
+2024-11-27 19:03:06.950 | INFO     | __main__:perform_translation:95 - 用户的输入是一周来市场反应积极市场信心回归新房项目销售成交喜报频传 
+2024-11-27 19:03:07.770 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是Неделя за неделей рыночная реакция положительная рыночная уверенность возвращается к продажам новых домов.
+2024-11-27 22:31:52.758 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 22:31:52.759 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 22:31:52
+2024-11-27 22:31:54.044 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-27 22:31:54.044 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-27 22:31:54
+2024-11-27 22:31:54.545 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 英文 (en), 目标语言: 中文 (zh)
+2024-11-27 22:31:54.545 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-en-zh-final
+2024-11-27 22:31:55.701 | INFO     | __main__:perform_translation:95 - 用户的输入是一周来市场反应积极市场信心回归新房项目销售成交喜报频传 
+2024-11-27 22:32:03.254 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-11-27 22:32:05.133 | INFO     | __main__:perform_translation:95 - 用户的输入是At 11:20, the police asked the protesters to move back on to the pavement, stating that they needed to balance the right to protest with the traffic building up.
+2024-11-27 22:32:05.978 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是在11:20,警方要求抗议者回到人行道上,表示他们需要平衡抗议的权利与交通拥堵。
+2024-11-27 22:32:30.186 | INFO     | __main__:perform_translation:95 - 用户的输入是They need to show the insurer's e-mail address and international phone numbers for advice/authorizations and making claims.
+2024-11-27 22:32:30.790 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是他们需要出示保险公司的电子邮件地址和国际电话号码,以获取建议/授权和提出索赔。
+2024-11-27 22:32:51.752 | INFO     | __main__:perform_translation:95 - 用户的输入是Moose (also known as elk) aren't inherently aggressive, but will defend themselves if they perceive a threat.
+2024-11-27 22:32:52.559 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是驼鹿(也称为驼鹿)并不是天生具有攻击性,但如果他们察觉到威胁,就会自卫。
+2024-11-27 22:33:10.300 | INFO     | __main__:perform_translation:95 - 用户的输入是Drink alcoholic drinks with moderation. Alcohol affects everyone differently, and knowing your limit is very important.
+2024-11-27 22:33:10.943 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是适度饮用酒精饮料。酒精对每个人的影响都不同,了解自己的极限非常重要。
+2024-11-27 22:33:26.727 | INFO     | __main__:perform_translation:95 - 用户的输入是Eyeglasses can be cheaper in a foreign country, especially in low-income countries where labour costs are lower.
+2024-11-27 22:33:27.220 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是在外国,眼镜可能更便宜,尤其是在劳动力成本较低的低收入国家。
+2024-11-27 22:34:26.343 | INFO     | __main__:perform_translation:95 - 用户的输入是They are listed on the UNESCO World Heritage List.
+2024-11-27 22:34:26.675 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是它们被列入联合国教科文组织世界遗产名录。
+2024-11-27 22:34:38.788 | INFO     | __main__:perform_translation:95 - 用户的输入是The whole district is designated as a UNESCO World Heritage Site for its unique cultural and historical value, and its property values are among the highest of the country.
+2024-11-27 22:34:39.588 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是整个地区被指定为联合国教科文组织世界遗产,因其独特的文化和历史价值,其物业价值在全国名列前茅。
+2024-11-27 22:34:58.602 | INFO     | __main__:perform_translation:95 - 用户的输入是In 1994, the ethnically Armenian Nagorno-Karabakh region of Azerbaijan waged war against the Azeris.
+2024-11-27 22:34:59.213 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是1994年,阿塞拜疆的亚美尼亚纳戈尔诺-卡拉巴赫地区对阿塞拜疆人发动了战争。
+2024-11-27 22:35:26.017 | INFO     | __main__:perform_translation:95 - 用户的输入是However, Star Alliance covers everything except the eastern South Pacific from Santiago de Chile to Tahiti, which is a LATAM Oneworld flight.
+2024-11-27 22:35:27.020 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是然而,星空联盟涵盖了一切,除了从圣地亚哥·德·智利到塔希提的东南太平洋,这是一次拉美一日飞行。
+2024-11-27 22:36:06.689 | INFO     | __main__:perform_translation:95 - 用户的输入是After you become comfortable with formatting and editing on the web, then later, you might create your own website.
+2024-11-27 22:36:07.314 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是在你习惯于在网上格式化和编辑之后,之后你可能会创建自己的网站。
+2024-11-27 22:36:24.682 | INFO     | __main__:perform_translation:95 - 用户的输入是You should choose your Frequent Flyer airline in an alliance carefully.
+2024-11-27 22:36:25.084 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是你应该在联盟中仔细选择你的常旅客航空公司。
+2024-11-27 22:36:43.583 | INFO     | __main__:perform_translation:95 - 用户的输入是Nevertheless, all French-speaking Belgians and Swiss would have learned standard French in school, so they would be able to understand you even if you used the standard French numbering system.
+
+2024-11-27 22:36:44.532 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是然而,所有讲法语的比利时人和瑞士人在学校都会学习标准法语,因此即使你使用了标准的法语编号系统,他们也能理解你。
+2024-11-28 11:41:22.939 | INFO     | __main__:get_multilang_model:395 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 12:16:08.312 | INFO     | __main__:get_multilang_model:396 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 12:16:30.696 | INFO     | __main__:perform_gpt_translation:254 - GPT-4o翻译结果是hello
+2024-11-28 12:33:08.625 | INFO     | __main__:get_multilang_model:407 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 12:33:35.498 | INFO     | __main__:get_multilang_model:407 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 12:34:18.027 | INFO     | __main__:get_multilang_model:407 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 12:35:09.665 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 12:35:51.936 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 14:20:36.890 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 14:20:53.181 | INFO     | __main__:perform_gpt_translation:267 - GPT-4o翻译结果是hahahahahahaha
+2024-11-28 14:21:32.465 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 14:22:16.370 | INFO     | __main__:check_and_load_model:215 - =============================================
+2024-11-28 14:22:16.371 | INFO     | __main__:check_and_load_model:217 - 时间: 2024-11-28 14:22:16
+2024-11-28 14:23:34.750 | INFO     | __main__:check_and_load_model:215 - =============================================
+2024-11-28 14:23:34.751 | INFO     | __main__:check_and_load_model:217 - 时间: 2024-11-28 14:23:34
+2024-11-28 14:23:42.736 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 14:25:06.538 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 14:25:38.350 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 14:28:13.548 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 14:30:19.089 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 14:40:30.742 | INFO     | __main__:check_and_load_model:215 - =============================================
+2024-11-28 14:40:30.742 | INFO     | __main__:check_and_load_model:217 - 时间: 2024-11-28 14:40:30
+2024-11-28 14:40:33.714 | INFO     | __main__:check_and_load_model:215 - =============================================
+2024-11-28 14:40:33.715 | INFO     | __main__:check_and_load_model:217 - 时间: 2024-11-28 14:40:33
+2024-11-28 14:40:34.216 | INFO     | __main__:check_and_load_model:222 - 选择的源语言: 中文 (zh), 目标语言: 英文 (en)
+2024-11-28 14:40:34.216 | INFO     | __main__:check_and_load_model:223 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-en-final
+2024-11-28 14:40:39.252 | INFO     | __main__:perform_translation:191 - 用户的输入是n
+2024-11-28 14:40:40.224 | INFO     | __main__:perform_translation:195 - 自研模型翻译结果是How was your day today?
+2024-11-28 14:40:40.286 | INFO     | __main__:perform_translation:191 - 用户的输入是你好
+2024-11-28 14:40:40.465 | INFO     | __main__:perform_translation:195 - 自研模型翻译结果是Hello,
+2024-11-28 14:40:46.933 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 14:45:14.057 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 14:46:43.918 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 14:57:13.835 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 14:58:04.992 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 15:09:19.838 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 15:16:59.543 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-28 15:16:59.544 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-28 15:16:59
+2024-11-28 15:17:01.054 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-28 15:17:01.054 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-28 15:17:01
+2024-11-28 15:17:01.556 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 韩语 (ko), 目标语言: 中文 (zh)
+2024-11-28 15:17:01.556 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-ko-zh-final
+2024-11-28 15:17:03.724 | INFO     | __main__:perform_translation:95 - 用户的输入是你好好久不见过得怎么样你好过得好你最近在干什么我最近很忙，因为要负责Serum项目每天加班啊辛苦了但我还是会很开心周未要做什么周末，想休息一下，你会骂人吗?我打算和家人一起去旅游。去济州岛看看大海也想多吃点东西，多拍张照片，一起去围墙吧。一定要去，那么今天咖啡我来买，谢谢，明天我会带米去，旅行会很愉快，谢谢
+2024-11-28 15:17:12.170 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是你好 久不见 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样
+2024-11-28 15:17:20.982 | INFO     | __main__:perform_translation:95 - 用户的输入是你好好久不见过得怎么样你好过得好你最近在干什么我最近很忙，因为要负责Serum项目每天加班啊辛苦了但我还是会很开心周未要做什么周末，想休息一下，你会骂人吗?我打算和家人一起去旅游。去济州岛看看大海也想多吃点东西，多拍张照片，一起去围墙吧。一定要去，那么今天咖啡我来买，谢谢，明天我会带米去，旅行会很愉快，谢谢。
+2024-11-28 15:17:28.902 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 15:17:29.898 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是你好 久不见 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样
+2024-11-28 15:18:46.371 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 15:19:37.187 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-28 15:19:37.188 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-28 15:19:37
+2024-11-28 15:19:41.380 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-28 15:19:41.380 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-28 15:19:41
+2024-11-28 15:19:41.881 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 中文 (zh), 目标语言: 韩语 (ko)
+2024-11-28 15:19:41.882 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-ko-final
+2024-11-28 15:19:44.721 | INFO     | __main__:perform_translation:95 - 用户的输入是你好好久不见过得怎么样你好过得好你最近在干什么我最近很忙，因为要负责Serum项目每天加班啊辛苦了但我还是会很开心周未要做什么周末，想休息一下，你会骂人吗?我打算和家人一起去旅游。去济州岛看看大海也想多吃点东西，多拍张照片，一起去围墙吧。一定要去，那么今天咖啡我来买，谢谢，明天我会带米去，旅行会很愉快，谢谢。
+2024-11-28 15:19:48.024 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是잘 지내고 있는 건 어때, 최근에 내가 무엇을 하고 있는지 잘 지내고 있는 건 어때, Serum 프로젝트를 매일 초과 근무하는 책임을 지고 있는 건 힘든 일이지만, 여전히 주말을 위해 즐거운 시간을 보내고 있고, 휴식을 취하고 싶으신가요? 가족과 함께 투어를 할 계획이에요. 제주도에 가서 바다에 가서 더 많은 것을 먹고 싶고, 사진을 찍고, 벽으로 가세요. 꼭 가세요, 오늘 커피를 사러 오세요, 감사합니다, 내일 쌀을 가져갈게요, 여행은 즐거울 거예요, 감사합니다.
+2024-11-28 15:19:56.095 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-28 15:19:56.096 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-28 15:19:56
+2024-11-28 15:19:57.407 | INFO     | __main__:check_and_load_model:118 - =============================================
+2024-11-28 15:19:57.408 | INFO     | __main__:check_and_load_model:120 - 时间: 2024-11-28 15:19:57
+2024-11-28 15:19:57.909 | INFO     | __main__:check_and_load_model:125 - 选择的源语言: 韩语 (ko), 目标语言: 中文 (zh)
+2024-11-28 15:19:57.909 | INFO     | __main__:check_and_load_model:126 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-ko-zh-final
+2024-11-28 15:19:59.030 | INFO     | __main__:perform_translation:95 - 用户的输入是你好好久不见过得怎么样你好过得好你最近在干什么我最近很忙，因为要负责Serum项目每天加班啊辛苦了但我还是会很开心周未要做什么周末，想休息一下，你会骂人吗?我打算和家人一起去旅游。去济州岛看看大海也想多吃点东西，多拍张照片，一起去围墙吧。一定要去，那么今天咖啡我来买，谢谢，明天我会带米去，旅行会很愉快，谢谢。
+2024-11-28 15:20:07.455 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是你好 久不见 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样 怎么样
+2024-11-28 15:20:09.679 | INFO     | __main__:perform_translation:95 - 用户的输入是잘 지내고 있는 건 어때, 최근에 내가 무엇을 하고 있는지 잘 지내고 있는 건 어때, Serum 프로젝트를 매일 초과 근무하는 책임을 지고 있는 건 힘든 일이지만, 여전히 주말을 위해 즐거운 시간을 보내고 있고, 휴식을 취하고 싶으신가요? 가족과 함께 투어를 할 계획이에요. 제주도에 가서 바다에 가서 더 많은 것을 먹고 싶고, 사진을 찍고, 벽으로 가세요. 꼭 가세요, 오늘 커피를 사러 오세요, 감사합니다, 내일 쌀을 가져갈게요, 여행은 즐거울 거예요, 감사합니다.
+2024-11-28 15:20:11.850 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是怎么样,最近我在做什么,怎么样,负责每天加班Serum项目是很难的,但你仍然喜欢周末,想放松一下吗?我计划和家人一起旅行。去济州岛,去海边吃点东西,拍些照片,去墙边。一定要去,今天来喝咖啡,谢谢,我明天会带米饭,旅行会很愉快,谢谢。
+2024-11-28 15:22:52.399 | INFO     | __main__:perform_translation:95 - 用户的输入是吐き 又卲 趾0|0} 叫学列 ↗汖叫 处き 登 ↗汖叫 ㄩ乞 豆吞别 部丑 列屾 ㄩ 豆吞 登从O|乞 ㄩ早 比叫,从到 工豆础三詈登引 Яバ 叫 °己0|0} ·} 剖量殘ご ユ甜 型召0|列0夲璧叫乞 罚 聲 ↗0} 不甓叫叫と,斜引丑 胡 ㄩ乞 才望烈叫?
+2024-11-28 15:23:00.615 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是吐き 又卲趾0|0} 音阶列 ↗᱖ 音阶 円᱖ 音阶 ấ᱖ 音阶 ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể ể
+2024-11-28 15:23:24.533 | INFO     | __main__:perform_translation:95 - 用户的输入是안녕 오랜만이야 어떻게 지냈어? 안녕 잘 지냈어? 너는 요즘 뭐 하고 지내니? 나 요즘 바빠서 너무 바빠. 세븐 프로젝트를 맡게 돼서 너무 야근이야 힘들겠네. 그래도 전 전 열이 될 거야. 주말에는 뭐 할 거야?
+2024-11-28 15:23:25.918 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是嗨,好久不见,你过得怎么样?你好吗?你最近在忙什么?我最近忙得不可开交。我负责七个项目,所以加班会很困难。不过,这将是前排。你周末会做什么?
+2024-11-28 15:24:07.117 | INFO     | __main__:perform_translation:95 - 用户的输入是안녕 오랜만이야 어떻게 지냈어 안녕 잘 지냈어 너는 요즘 뭐 하고 지내니 나 요즘 바빠 세븐 프로젝트를 맡게 돼서 너무 야근이야 힘들겠네 그래도 전 전 열이 될 거야 주말에는 뭐 할 거야 주말에는 쉬려고 해 너는 개핸 있니 나는 제주시로 여행 가기로 했어 제주도도 가고 바다도 보고 싶어 꼭 같이 가자 꼭 같이 가서 좋은 추억과 사진 많이 찍고 담에는 바닷가에서 한 잔할래 카페에서 차 한 잔해도 좋아 정말 보고 싶어 우리 담에 또 봐
+2024-11-28 15:24:10.586 | INFO     | __main__:perform_translation:99 - 自研模型翻译结果是嗨,好久不见,你过得怎么样,你最近在忙什么,我最近要接一个忙碌的七个项目,所以你太夜班了,这会很困难,但你周末要做什么,周末要休息,你有一只狗,我决定去济州岛旅行,想去济州岛,也想去看看海,我一定会一起去,拍很多美好的回忆,拍很多照片,顺便说一下,在海边的一家咖啡馆喝杯茶,我真的很想去我们的毛毯看看,也想去看看我们的毛毯。
+2024-11-28 15:26:38.811 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 15:33:39.046 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 15:45:04.520 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 15:49:03.964 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 15:49:21.349 | INFO     | __main__:perform_gpt_translation:267 - GPT-4o翻译结果是hello
+2024-11-28 15:49:55.638 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 15:50:51.900 | INFO     | __main__:check_and_load_model:215 - =============================================
+2024-11-28 15:50:51.900 | INFO     | __main__:check_and_load_model:217 - 时间: 2024-11-28 15:50:51
+2024-11-28 15:50:55.578 | INFO     | __main__:check_and_load_model:215 - =============================================
+2024-11-28 15:50:55.579 | INFO     | __main__:check_and_load_model:217 - 时间: 2024-11-28 15:50:55
+2024-11-28 15:50:56.080 | INFO     | __main__:check_and_load_model:222 - 选择的源语言: 中文 (zh), 目标语言: 英文 (en)
+2024-11-28 15:50:56.080 | INFO     | __main__:check_and_load_model:223 - 找到的模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-en-final
+2024-11-28 15:50:59.576 | INFO     | __main__:perform_translation:191 - 用户的输入是h
+2024-11-28 15:51:00.556 | INFO     | __main__:perform_translation:195 - 自研模型翻译结果是The weather is really nice today.
+2024-11-28 15:51:00.609 | INFO     | __main__:perform_translation:191 - 用户的输入是he'l
+2024-11-28 15:51:00.825 | INFO     | __main__:perform_translation:195 - 自研模型翻译结果是He'l
+2024-11-28 15:51:00.864 | INFO     | __main__:perform_translation:191 - 用户的输入是hello
+2024-11-28 15:51:00.992 | INFO     | __main__:perform_translation:195 - 自研模型翻译结果是Hello
+2024-11-28 15:51:05.850 | INFO     | __main__:perform_gpt_translation:267 - GPT-4o翻译结果是hello
+2024-11-28 15:51:11.870 | INFO     | __main__:get_multilang_model:409 - 成功加载模型: 11_language, 路径: /home/yumingdong/model/huggingface/opus-mt-mul-11-vocab-150k-mul-11
+2024-11-28 15:51:31.892 | INFO     | __main__:perform_gpt_translation:267 - GPT-4o翻译结果是hello

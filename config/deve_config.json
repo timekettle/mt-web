@@ -7,6 +7,7 @@
             "name": "英文",
             "model_paths": [
                 "/home/yumingdong/mt-web/results/opus-mt-zh-en-final"
+
             ]
           },
           "ru": {
@@ -25,6 +26,126 @@
             "model_paths": [
               "/home/yumingdong/mt-web/results/results-no-zh-cn-newbase-dataset2-batch32/checkpoint-1388500",
               "/home/yumingdong/mt-web/results/results-no-zh-cn-newbase-dataset2-batch32/checkpoint-1388000"
+            ]
+          }
+          
+        }
+      },
+      "en": {
+        "name": "英文",
+        "targets": {
+          "zh": {
+            "name": "中文",
+            "model_paths": [
+              "/workspace/volume/data-skh/300-MT-Pro/workspace/tk-hyx/results-002_opus_en_zh_newbase-dataset2-batch32"
+            ]
+          }
+          
+        }
+      },
+      "ru": {
+        "name": "俄语",
+        "targets": {
+          "zh": {
+            "name": "中文",
+            "model_paths": [
+              "/home/yumingdong/mt-web/results/results-002-opus-ru-zh-cn-newbase-dataset2-batch32-augment"
+            ]
+          }
+          
+        }
+      },
+      "ar": {
+        "name": "阿拉伯语",
+        "targets": {
+          "zh": {
+            "name": "中文",
+            "model_paths": [
+              "/home/yumingdong/mt-web/results/results-002-opus-ar-zh-newbase-dataset2-batch32-augment"
+            ]
+          }
+          
+        }
+      },
+      "de": {
+        "name": "德语",
+        "targets": {
+          "zh": {
+            "name": "中文",
+            "model_paths": [
+              "/home/yumingdong/mt-web/results/results-002_opus_de_zh_newbase-dataset2-batch32"
+            ]
+          }
+          
+        }
+      },
+      "es": {
+        "name": "西班牙语",
+        "targets": {
+          "zh": {
+            "name": "中文",
+            "model_paths": [
+              "/home/yumingdong/mt-web/results/results-002_opus_es_zh_newbase-dataset2-batch32"
+            ]
+          }
+          
+        }
+      },
+      "fr": {
+        "name": "法语",
+        "targets": {
+          "zh": {
+            "name": "中文",
+            "model_paths": [
+              "/home/yumingdong/mt-web/results/results-002_opus_fr_zh_newbase-dataset2-batch32"
+            ]
+          }
+          
+        }
+      },
+      "it": {
+        "name": "意大利语",
+        "targets": {
+          "zh": {
+            "name": "中文",
+            "model_paths": [
+              "/home/yumingdong/mt-web/results/results-002_opus_it_zh_newbase-dataset2-batch32"
+            ]
+          }
+          
+        }
+      },
+      "ja": {
+        "name": "日语",
+        "targets": {
+          "zh": {
+            "name": "中文",
+            "model_paths": [
+              "/home/yumingdong/mt-web/results/results-002_opus_ja_zh_newbase-dataset2-batch32"
+            ]
+          }
+          
+        }
+      },
+      "ko": {
+        "name": "韩语",
+        "targets": {
+          "zh": {
+            "name": "中文",
+            "model_paths": [
+              "/home/yumingdong/mt-web/results/results-002_opus_ko_zh_newbase-dataset2-batch32"
+            ]
+          }
+          
+        }
+      },
+      "th": {
+        "name": "泰语",
+        "targets": {
+          "zh": {
+            "name": "中文",
+            "model_paths": [
+              "/home/yumingdong/mt-web/results/results-002_opus_th_zh_newbase-dataset2-batch32"
             ]
           }
           

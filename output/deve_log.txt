@@ -1,0 +1,183 @@
+2024-11-27 11:01:26.395 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 日语 -> ja, 目标语言映射: None -> None
+2024-11-27 11:01:26.395 | WARNING  | __main__:update_model_dropdown:79 - 目标语言未选择，无法更新模型路径。源语言映射: 日语 -> ja
+2024-11-27 11:01:26.445 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-27 11:01:26.446 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-27 11:01:26
+2024-11-27 11:01:27.955 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 日语 -> ja, 目标语言映射: 中文 -> zh
+2024-11-27 11:01:27.955 | INFO     | __main__:update_model_dropdown:84 - 找到的模型路径: ['/home/yumingdong/mt-web/results/results-002_opus_ja_zh_newbase-dataset2-batch32']
+2024-11-27 11:01:47.453 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-27 11:01:47.454 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-27 11:01:47
+2024-11-27 11:01:47.454 | INFO     | __main__:check_and_load_model:151 - 源语言: 日语 (ja), 目标语言: 中文 (zh), 模型路径: /home/yumingdong/mt-web/results/results-002_opus_ja_zh_newbase-dataset2-batch32
+2024-11-27 11:01:48.725 | INFO     | __main__:check_and_load_model:156 - 模型加载成功
+2024-11-27 11:02:11.341 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 日语 -> ja, 目标语言映射: None -> None
+2024-11-27 11:02:11.341 | WARNING  | __main__:update_model_dropdown:79 - 目标语言未选择，无法更新模型路径。源语言映射: 日语 -> ja
+2024-11-27 11:02:11.443 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-27 11:02:11.444 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-27 11:02:11
+2024-11-27 11:02:14.923 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 日语 -> ja, 目标语言映射: 中文 -> zh
+2024-11-27 11:02:14.923 | INFO     | __main__:update_model_dropdown:84 - 找到的模型路径: ['/home/yumingdong/mt-web/results/results-002_opus_ja_zh_newbase-dataset2-batch32']
+2024-11-27 11:02:17.746 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-27 11:02:17.746 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-27 11:02:17
+2024-11-27 11:02:17.747 | INFO     | __main__:check_and_load_model:151 - 源语言: 日语 (ja), 目标语言: 中文 (zh), 模型路径: /home/yumingdong/mt-web/results/results-002_opus_ja_zh_newbase-dataset2-batch32
+2024-11-27 11:02:18.913 | INFO     | __main__:check_and_load_model:156 - 模型加载成功
+2024-11-27 11:02:31.753 | INFO     | __main__:perform_translation:122 - 用户的输入是【大阪発】最新の人工知能（AI）技術を活用した医療システムが、患者の診断精度向上と医療従事者の負担軽減を目指し、全国的に注目を集めている。大阪大学と国内の大手IT企業が共同で開発したこのシステムは、AIが画像診断や病歴データを分析し、最適な治療方法を提案する仕組みだ。
+
+研究チームの代表である佐藤教授は、「このシステムにより、特に早期がんや心疾患の診断における精度が大幅に向上しました。これからの医療の質を大きく変える可能性があります」とコメントした。
+
+この技術の導入により、地方の医療機関でも専門医レベルの診断が可能になり、医療格差の解消につながると期待されている。しかし、データのプライバシー保護やAIの判断への過度な依存に対する懸念も一部で指摘されている。
+
+政府はこの技術を推進するため、研究開発の助成金を増やす方針を発表した。今後、このシステムが全国の病院で本格導入されるかどうか、引き続き注目が集まる。
+
+
+2024-11-27 11:02:36.738 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是【大阪发】利用最新人工智能(AI)技术的医疗系统,旨在提高患者诊断准确性和减轻医疗工作者的负担,正在引起全国的关注。由大阪大学和全国最大的IT公司共同开发,该系统是AI分析影像学和病史数据并建议最佳治疗方案的机制。研究团队的负责人佐藤教授评论道:“该系统显著提高了诊断准确性,特别是在早期癌症和心脏病方面。这可能会显著改变未来的医疗质量。” 预计该技术的引入将使地方医疗机构能够进行专家级诊断,从而消除医疗差距。然而,部分原因是对数据隐私保护和对AI判断过度依赖的担忧。政府已宣布将增加研发拨款,以推动这一技术。未来,是否会在全国各地的医院全面实施该系统将继续引起关注。
+2024-11-27 11:09:04.225 | INFO     | __main__:perform_gpt_translation:189 - GPT-4o翻译结果是【大阪发】最新的人工智能（ai）技术被应用于医疗系统，旨在提高患者的诊断精度并减轻医务人员的负担，因此在全国范围内备受关注。这一系统由大阪大学与国内大型it企业联合开发，通过ai分析影像诊断和病历数据，提出最佳治疗方法。
+
+研究团队的代表佐藤教授评论道：“通过这一系统，特别是在早期癌症和心脏病诊断方面的精度大幅提高。这有可能大大改变未来的医疗质量。”
+
+由于这一技术的引入，即使在地方医疗机构也能进行专业医师级别的诊断，预计将有助于消除医疗差距。然而，也有部分人指出了关于数据隐私保护和对ai判断过度依赖的担忧。
+
+政府为推动这一技术，宣布将增加研究开发的补助金。今后，这一系统是否会在全国医院正式推广，将持续受到关注。
+2024-11-27 11:11:09.323 | INFO     | __main__:perform_translation:122 - 用户的输入是海外の日本人向けの日本語チャンネル、NHKワ-ルド・プレミアムは、国内で放送されているニュ-ス・情報番組、ドラマ、音楽番組、子ども番組、スポ-ツ中继などから選んだ番組を24時間編成しています。世界の100以上の国·地域の約2,000万世帯で視聴できま寸。
+2024-11-27 11:11:11.044 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是一个面向海外日本人的日语频道,NHKWA-Lud Premium 24小时组织节目,从国内播出的新闻和信息节目、戏剧、音乐节目、儿童节目、体育中继等中选择。它在全球超过100个国家/地区的约2,000,000,000个家庭中可观看。
+2024-11-27 11:11:22.805 | INFO     | __main__:perform_gpt_translation:189 - GPT-4o翻译结果是面向海外日本人的日语频道nhk世界高级频道，将国内播出的新闻、信息节目、电视剧、音乐节目、儿童节目、体育转播等节目精选出来，24小时编排播出。全世界100多个国家和地区的约2000万家庭可以观看。
+2024-11-27 11:14:56.034 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 韩语 -> ko, 目标语言映射: None -> None
+2024-11-27 11:14:56.034 | WARNING  | __main__:update_model_dropdown:79 - 目标语言未选择，无法更新模型路径。源语言映射: 韩语 -> ko
+2024-11-27 11:14:56.135 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-27 11:14:56.136 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-27 11:14:56
+2024-11-27 11:14:57.698 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 韩语 -> ko, 目标语言映射: 中文 -> zh
+2024-11-27 11:14:57.698 | INFO     | __main__:update_model_dropdown:84 - 找到的模型路径: ['/home/yumingdong/mt-web/results/results-002_opus_ko_zh_newbase-dataset2-batch32']
+2024-11-27 11:16:10.295 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-27 11:16:10.295 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-27 11:16:10
+2024-11-27 11:16:10.296 | INFO     | __main__:check_and_load_model:151 - 源语言: 韩语 (ko), 目标语言: 中文 (zh), 模型路径: /home/yumingdong/mt-web/results/results-002_opus_ko_zh_newbase-dataset2-batch32
+2024-11-27 11:16:11.487 | INFO     | __main__:check_and_load_model:156 - 模型加载成功
+2024-11-27 11:16:11.487 | INFO     | __main__:perform_translation:122 - 用户的输入是海外の日本人向けの日本語チャンネル、NHKワ-ルド・プレミアムは、国内で放送されているニュ-ス・情報番組、ドラマ、音楽番組、子ども番組、スポ-ツ中继などから選んだ番組を24時間編成しています。世界の100以上の国·地域の約2,000万世帯で視聴できま寸。
+2024-11-27 11:16:15.179 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是出海的日本人向けの日本語チャンネル、NHKワ-ルド・プレミアムは、国内に寄送されるニュ-ス・情報グ組、ドラマ、音楽番組、子ども番組、スポ-ツ中国のアジなどから選んだ番組を24時間編成されています。世界の100のの国·地域の約2,000萬世帯で視聽されています。
+2024-11-27 11:16:16.399 | INFO     | __main__:perform_translation:122 - 用户的输入是【서울발】11월 27일, 대한민국 정부는 탄소 배출을 줄이고 지속 가능한 발전을 위해 전기차(EV) 보급을 확대하기 위한 새로운 정책을 발표했다. 이 정책은 2035년까지 국내에서 판매되는 신차의 70%를 전기차로 전환하는 것을 목표로 하고 있다.
+
+산업통상자원부의 김민수 장관은 "전기차 보급은 기후 위기 대응뿐만 아니라 국내 자동차 산업의 경쟁력을 강화하는 중요한 기회가 될 것입니다"라고 강조했다. 또한 전기차 구매 보조금 확대와 충전 인프라 구축을 위해 2조 원 규모의 예산을 투입할 계획도 밝혔다.
+
+이에 따라, 국내 자동차 제조업체들은 전기차 신모델 개발에 박차를 가하고 있으며, 소비자들 사이에서는 전기차 구매에 대한 관심이 높아지고 있다. 그러나 일부 전문가들은 배터리 원료 공급망 안정화와 폐배터리 재활용 문제 해결이 필요하다고 지적하고 있다.
+
+정부는 이와 함께, 전기차 기술 혁신을 위한 연구 개발 지원을 강화하고 관련 기업들과의 협력을 통해 시장 확대를 추진할 방침이다.
+2024-11-27 11:16:21.511 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是【首尔爆炸】11月27日,韩国政府宣布了一项新政策,旨在减少碳排放并扩大电动汽车(EV)的普及,以实现可持续发展。该政策旨在到2035年将70%的国内新车销售转换为电动汽车。工业和贸易部的金敏洙部长强调:“电动汽车的普及将是一个重要的机会,不仅应对气候危机,还能增强国内汽车工业的竞争力。”它还表示计划投入2万亿韩元的预算,以扩大电动汽车购买补贴和建立充电基础设施。因此,国内汽车制造商对电动汽车新车型的发展施加压力,消费者对电动汽车购买的兴趣日益增长。然而,一些专家指出,需要稳定电池源供应链和解决废旧电池回收问题。政府在这方面,将加强对电动汽车技术创新的研发支持,并通过与相关公司的合作推动市场扩张。
+2024-11-27 11:17:35.212 | INFO     | __main__:perform_gpt_translation:189 - GPT-4o翻译结果是【首尔消息】11月27日，大韩民国政府宣布了一项新的政策，以扩大电动汽车（ev）的普及，旨在减少碳排放并实现可持续发展。这项政策的目标是到2035年，将国内销售的新车中70%转为电动汽车。
+
+工业通商资源部长金民洙强调，“扩大电动汽车的普及不仅是应对气候危机的重要措施，也是加强国内汽车产业竞争力的重要机会。”他还透露，计划投入2万亿韩元的预算，以扩大电动汽车购置补贴和建设充电基础设施。
+
+因此，国内汽车制造商正在加紧开发电动汽车新车型，消费者对购买电动汽车的兴趣也在不断增加。然而，一些专家指出，需要解决电池原料供应链的稳定性和废旧电池的回收问题。
+
+政府还计划加强对电动汽车技术创新的研发支持，并通过与相关企业的合作推动市场的扩大。
+2024-11-27 11:20:30.860 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 日语 -> ja, 目标语言映射: None -> None
+2024-11-27 11:20:30.861 | WARNING  | __main__:update_model_dropdown:79 - 目标语言未选择，无法更新模型路径。源语言映射: 日语 -> ja
+2024-11-27 11:20:30.962 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-27 11:20:30.963 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-27 11:20:30
+2024-11-27 11:20:31.983 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 日语 -> ja, 目标语言映射: 中文 -> zh
+2024-11-27 11:20:31.983 | INFO     | __main__:update_model_dropdown:84 - 找到的模型路径: ['/home/yumingdong/mt-web/results/results-002_opus_ja_zh_newbase-dataset2-batch32']
+2024-11-27 11:20:32.689 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-27 11:20:32.689 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-27 11:20:32
+2024-11-27 11:20:32.690 | INFO     | __main__:check_and_load_model:151 - 源语言: 日语 (ja), 目标语言: 中文 (zh), 模型路径: /home/yumingdong/mt-web/results/results-002_opus_ja_zh_newbase-dataset2-batch32
+2024-11-27 11:20:33.869 | INFO     | __main__:check_and_load_model:156 - 模型加载成功
+2024-11-27 11:20:33.870 | INFO     | __main__:perform_translation:122 - 用户的输入是【서울발】11월 27일, 대한민국 정부는 탄소 배출을 줄이고 지속 가능한 발전을 위해 전기차(EV) 보급을 확대하기 위한 새로운 정책을 발표했다. 이 정책은 2035년까지 국내에서 판매되는 신차의 70%를 전기차로 전환하는 것을 목표로 하고 있다.
+
+산업통상자원부의 김민수 장관은 "전기차 보급은 기후 위기 대응뿐만 아니라 국내 자동차 산업의 경쟁력을 강화하는 중요한 기회가 될 것입니다"라고 강조했다. 또한 전기차 구매 보조금 확대와 충전 인프라 구축을 위해 2조 원 규모의 예산을 투입할 계획도 밝혔다.
+
+이에 따라, 국내 자동차 제조업체들은 전기차 신모델 개발에 박차를 가하고 있으며, 소비자들 사이에서는 전기차 구매에 대한 관심이 높아지고 있다. 그러나 일부 전문가들은 배터리 원료 공급망 안정화와 폐배터리 재활용 문제 해결이 필요하다고 지적하고 있다.
+
+정부는 이와 함께, 전기차 기술 혁신을 위한 연구 개발 지원을 강화하고 관련 기업들과의 협력을 통해 시장 확대를 추진할 방침이다.
+2024-11-27 11:20:41.516 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是【서울发展战略】11월 27일, 대한민국 정부는 탄소 배출을 줄이고 지속 가心理压力을 위해 전기차(EV) 보充值을 확대하기 위로운 정책을 经济的发展. 이 정책은 2035년까지 국내에서 処置処置処置을 70%를 전기차 전ement 전ement 政策措施 いただければいただければいただければいただければいただければいただければいただければいただければいただければいただければいただければいただければいただければいただければいただければいただければいただければいただければ 국내 자동ace mentment www.iceiceice www.iceiceiceice www.iceiceiceice www.iceiceiceice www.iceiceiceiceice www.iceiceiceice www.iceiceiceiceice webweb.iceiceiceice www.iceiceiceice web.iceiceiceice web.iceiceiceice web.iceiceiceice web.iceiceice web.iceiceiceice web.iceiceiceice web.iceiceiceice web.ice
+2024-11-27 11:20:43.346 | INFO     | __main__:perform_translation:122 - 用户的输入是【東京発】11月27日、日本政府は、再生可能エネルギーの導入を加速させるための新たな政策を発表した。この政策では、2030年までに全国の電力供給の50％を再生可能エネルギーで賄うことを目標としている。
+
+経済産業省の山田大臣は記者会見で、「気候変動に対応するためには、再生可能エネルギーの普及が不可欠です。この政策は環境と経済の両立を目指すものです」と述べた。また、風力発電や太陽光発電の設置拡大に向けて、地域の合意形成を進めるための支援策も発表された。
+
+一方で、一部の地域では発電設備の景観や騒音に関する懸念の声も上がっている。専門家は、「地域住民との協力がこの政策の成功に鍵を握る」と指摘している。
+
+政府は今後、企業や自治体と連携し、再生可能エネルギーの利用拡大に向けた具体的な取り組みを進める予定だ。
+2024-11-27 11:20:46.820 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是【东京发】11月27日,日本政府宣布了一项新政策,以加速可再生能源的引入,目标是到2030年用可再生能源覆盖全国50%的电力供应。 经济和工业部的山田部长在新闻发布会上表示:“为了应对气候变化,可再生能源的采用至关重要,因为该政策旨在平衡环境和经济。” 还宣布了一项支持措施,以推动区域共识的形成,以扩大风能和太阳能光伏的安装。 与此同时,一些地区对发电设施的景观和噪音表示担忧。 专家指出:“与当地居民的合作是该政策成功的关键。” 政府将与公司和市政当局合作,以推进扩大可再生能源使用的具体举措。
+2024-11-27 11:21:35.133 | INFO     | __main__:perform_gpt_translation:189 - GPT-4o翻译结果是【东京发】11月27日，日本政府宣布了一项加速引入可再生能源的新政策。该政策的目标是，到2030年全国电力供应的50%将由可再生能源提供。
+
+经济产业省的山田大臣在记者会上表示：“为了应对气候变化，可再生能源的普及是不可或缺的。这项政策旨在实现环境与经济的双赢。”此外，还公布了旨在推动风力发电和太阳能发电设施扩建的支持措施，以促进区域共识的形成。
+
+另一方面，部分地区对于发电设备的景观和噪音问题表示担忧。专家指出，“与当地居民的合作是这项政策成功的关键。”
+
+政府计划今后与企业和地方自治体合作，推进具体措施以扩大可再生能源的使用。
+2024-11-27 11:24:47.843 | INFO     | __main__:perform_translation:122 - 用户的输入是【東京発】11月27日、日本政府は、再生可能エネルギーの導入を加速させるための新たな政策を発表した。この政策では、2030年までに全国の電力供給の50％を再生可能エネルギーで賄うことを目標としている，
+2024-11-27 11:24:48.849 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是【东京发】11月27日,日本政府宣布了一项新政策,以加速可再生能源的引入,旨在到2030年用可再生能源覆盖全国50%的电力供应。
+2024-11-27 11:24:48.963 | INFO     | __main__:perform_translation:122 - 用户的输入是【東京発】11月27日、日本政府は、再生可能エネルギーの導入を加速させるための新たな政策を発表した。この政策では、2030年までに全国の電力供給の50％を再生可能エネルギーで賄うことを目標としている，，，
+2024-11-27 11:24:49.954 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是【东京发】11月27日,日本政府宣布了一项新政策,以加速可再生能源的引入,旨在到2030年用可再生能源覆盖全国50%的电力供应。
+2024-11-27 15:35:27.617 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 中文 -> zh, 目标语言映射: None -> None
+2024-11-27 15:35:27.618 | WARNING  | __main__:update_model_dropdown:79 - 目标语言未选择，无法更新模型路径。源语言映射: 中文 -> zh
+2024-11-27 15:35:27.718 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-27 15:35:27.718 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-27 15:35:27
+2024-11-27 15:35:29.532 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 中文 -> zh, 目标语言映射: 英文 -> en
+2024-11-27 15:35:29.533 | INFO     | __main__:update_model_dropdown:84 - 找到的模型路径: ['/home/yumingdong/mt-web/results/opus-mt-zh-en-final']
+2024-11-27 15:35:30.490 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-27 15:35:30.490 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-27 15:35:30
+2024-11-27 15:35:30.491 | INFO     | __main__:check_and_load_model:151 - 源语言: 中文 (zh), 目标语言: 英文 (en), 模型路径: /home/yumingdong/mt-web/results/opus-mt-zh-en-final
+2024-11-27 15:35:31.765 | INFO     | __main__:check_and_load_model:156 - 模型加载成功
+2024-11-27 15:35:35.325 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 中文 -> zh, 目标语言映射: 俄语 -> ru
+2024-11-27 15:35:35.326 | INFO     | __main__:update_model_dropdown:84 - 找到的模型路径: ['/home/yumingdong/mt-web/results/opus-mt-zh-ru-final']
+2024-11-27 15:35:35.376 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-27 15:35:35.376 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-27 15:35:35
+2024-11-27 15:36:04.646 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 英文 -> en, 目标语言映射: None -> None
+2024-11-27 15:36:04.647 | WARNING  | __main__:update_model_dropdown:79 - 目标语言未选择，无法更新模型路径。源语言映射: 英文 -> en
+2024-11-27 15:36:05.704 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 英文 -> en, 目标语言映射: 中文 -> zh
+2024-11-27 15:36:05.705 | INFO     | __main__:update_model_dropdown:84 - 找到的模型路径: ['/workspace/volume/data-skh/300-MT-Pro/workspace/tk-hyx/results-002_opus_en_zh_newbase-dataset2-batch32']
+2024-11-27 15:36:08.879 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-27 15:36:08.880 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-27 15:36:08
+2024-11-27 15:36:08.881 | INFO     | __main__:check_and_load_model:151 - 源语言: 英文 (en), 目标语言: 中文 (zh), 模型路径: /workspace/volume/data-skh/300-MT-Pro/workspace/tk-hyx/results-002_opus_en_zh_newbase-dataset2-batch32
+2024-11-28 11:31:29.485 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 中文 -> zh, 目标语言映射: None -> None
+2024-11-28 11:31:29.486 | WARNING  | __main__:update_model_dropdown:79 - 目标语言未选择，无法更新模型路径。源语言映射: 中文 -> zh
+2024-11-28 11:31:29.586 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-28 11:31:29.586 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-28 11:31:29
+2024-11-28 11:31:35.582 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 挪威语 -> no, 目标语言映射: 中文 -> zh
+2024-11-28 11:31:35.582 | INFO     | __main__:update_model_dropdown:84 - 找到的模型路径: ['/home/yumingdong/mt-web/results/results-no-zh-cn-newbase-dataset2-batch32/checkpoint-1388500', '/home/yumingdong/mt-web/results/results-no-zh-cn-newbase-dataset2-batch32/checkpoint-1388000']
+2024-11-28 11:31:39.462 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-28 11:31:39.462 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-28 11:31:39
+2024-11-28 11:31:39.463 | INFO     | __main__:check_and_load_model:151 - 源语言: 挪威语 (no), 目标语言: 中文 (zh), 模型路径: /home/yumingdong/mt-web/results/results-no-zh-cn-newbase-dataset2-batch32/checkpoint-1388500
+2024-11-28 11:31:40.572 | INFO     | __main__:check_and_load_model:156 - 模型加载成功
+2024-11-28 11:32:10.416 | INFO     | __main__:perform_translation:122 - 用户的输入是Klimaendringer utgjør en alvorlig trussel mot økosystemer og menneskers livskvalitet.
+2024-11-28 11:32:14.557 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是气候变化对生态系统和人类生活质量构成了严重威胁。
+2024-11-28 11:33:16.201 | INFO     | __main__:perform_translation:122 - 用户的输入是For å møte de økende utfordringene knyttet til global oppvarming, må vi investere i fornybare energikilder, samtidig som vi utvikler mer effektive løsninger for å redusere avfall og bevare naturressurser.
+2024-11-28 11:33:16.671 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是总之,面对全球变暖日益增长的挑战,我们需要投资于可再生能源,同时开发更有效的解决方案来减少废物和节约自然资源。
+2024-11-28 11:56:09.855 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 挪威语 -> no, 目标语言映射: None -> None
+2024-11-28 11:56:09.856 | WARNING  | __main__:update_model_dropdown:79 - 目标语言未选择，无法更新模型路径。源语言映射: 挪威语 -> no
+2024-11-28 11:56:09.957 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-28 11:56:09.958 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-28 11:56:09
+2024-11-28 11:56:11.167 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 挪威语 -> no, 目标语言映射: 中文 -> zh
+2024-11-28 11:56:11.167 | INFO     | __main__:update_model_dropdown:84 - 找到的模型路径: ['/home/yumingdong/mt-web/results/results-no-zh-cn-newbase-dataset2-batch32/checkpoint-1388500', '/home/yumingdong/mt-web/results/results-no-zh-cn-newbase-dataset2-batch32/checkpoint-1388000']
+2024-11-28 11:56:20.590 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-28 11:56:20.591 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-28 11:56:20
+2024-11-28 11:56:20.591 | INFO     | __main__:check_and_load_model:151 - 源语言: 挪威语 (no), 目标语言: 中文 (zh), 模型路径: /home/yumingdong/mt-web/results/results-no-zh-cn-newbase-dataset2-batch32/checkpoint-1388500
+2024-11-28 11:56:21.697 | INFO     | __main__:check_and_load_model:156 - 模型加载成功
+2024-11-28 11:56:28.244 | INFO     | __main__:perform_translation:122 - 用户的输入是I dag tidlig gikk jeg en tur langs stranden og så solen stige opp over horisonten. Det var utrolig vakkert å se hvordan lyset reflekterte på vannet, og jeg følte en dyp følelse av ro og takknemlighet. Etterpå bestemte jeg meg for å ta en kopp kaffe på favorittkafeen min og tilbrakte litt tid med å lese en god bok.
+2024-11-28 11:56:29.308 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是第二天早上,我沿着海滩散步,看到太阳在地平线上升起。琳达真是太美了,看到光线在水面上反射,我感到深深的平静和感激。琳达上,我决定在我最喜欢的咖啡馆喝一杯咖啡,花了一些时间读一本好书。
+2024-11-28 12:00:35.838 | INFO     | __main__:perform_translation:122 - 用户的输入是Etter en lang dag på jobb bestemte jeg meg for å lage en enkel middag hjemme. Jeg fant noen grønnsaker i kjøleskapet og lagde en deilig salat. Etterpå satte jeg meg ned i sofaen med en kopp te og så på en film før jeg gikk til sengs.
+2024-11-28 12:00:36.605 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是总之:在工作的一个漫长日子里,我决定在家做一顿简单的晚餐。 总之在冰箱里找到了一些蔬菜,做了一道美味的沙拉。 总之,我坐在沙发上喝茶,看电影,然后上床睡觉。
+2024-11-28 12:01:29.780 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 中文 -> zh, 目标语言映射: None -> None
+2024-11-28 12:01:29.781 | WARNING  | __main__:update_model_dropdown:79 - 目标语言未选择，无法更新模型路径。源语言映射: 中文 -> zh
+2024-11-28 12:01:29.832 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-28 12:01:29.833 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-28 12:01:29
+2024-11-28 12:02:55.756 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 挪威语 -> no, 目标语言映射: 中文 -> zh
+2024-11-28 12:02:55.756 | INFO     | __main__:update_model_dropdown:84 - 找到的模型路径: ['/home/yumingdong/mt-web/results/results-no-zh-cn-newbase-dataset2-batch32/checkpoint-1388500', '/home/yumingdong/mt-web/results/results-no-zh-cn-newbase-dataset2-batch32/checkpoint-1388000']
+2024-11-28 12:02:58.225 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-28 12:02:58.225 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-28 12:02:58
+2024-11-28 12:02:58.226 | INFO     | __main__:check_and_load_model:151 - 源语言: 挪威语 (no), 目标语言: 中文 (zh), 模型路径: /home/yumingdong/mt-web/results/results-no-zh-cn-newbase-dataset2-batch32/checkpoint-1388500
+2024-11-28 12:02:59.366 | INFO     | __main__:check_and_load_model:156 - 模型加载成功
+2024-11-28 12:02:59.366 | INFO     | __main__:perform_translation:122 - 用户的输入是Etter en lang dag på jobb bestemte jeg meg for å lage en enkel middag hjemme. Jeg fant noen grønnsaker i kjøleskapet og lagde en deilig salat. Etterpå satte jeg meg ned i sofaen med en kopp te og så på en film før jeg gikk til sengs.
+2024-11-28 12:03:00.171 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是总之:在工作的一个漫长日子里,我决定在家做一顿简单的晚餐。 总之在冰箱里找到了一些蔬菜,做了一道美味的沙拉。 总之,我坐在沙发上喝茶,看电影,然后上床睡觉。
+2024-11-28 12:03:01.389 | INFO     | __main__:perform_translation:122 - 用户的输入是I løpet av helgen bestemte jeg meg for å rydde opp på loftet. Jeg fant gamle fotoalbum og mange ting jeg hadde glemt. Det var hyggelig å mimre litt, men også godt å få ryddet opp i alt rotet.
+2024-11-28 12:03:02.022 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是在周末,我决定清理阁楼。邮箱找到了旧的相册和我忘记的许多东西。邮箱有点回忆起来很不错,但清理所有杂物也很好。
+2024-11-28 12:03:54.751 | INFO     | __main__:perform_translation:122 - 用户的输入是På en regnfull ettermiddag bestemte jeg meg for å bake en kake. Mens regnet trommet mot vinduene, fylte duften av sjokoladekake hele huset. Det var en koselig måte å tilbringe dagen på.
+2024-11-28 12:03:55.404 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是在一个下雨的下午,我决定烤一个蛋糕。热刺的雨水洒在窗户上,填满了整个房子的巧克力蛋糕的香气。热刺是度过一天的舒适方式。
+2024-11-28 12:04:27.967 | INFO     | __main__:perform_translation:122 - 用户的输入是Etter en lang fjelltur satte vi oss ned ved bålet for å hvile. Vi grillet pølser og delte historier mens solen gikk ned bak fjellene. Det var en perfekt avslutning på en fantastisk dag.
+2024-11-28 12:04:28.686 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是总之,一次长途山间散步,我们坐在火边休息。也就是说,在太阳在山后落下时,烤香肠和分享故事。也就是说,这是美好一天的完美结束。
+2024-11-28 15:27:42.227 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 韩语 -> ko, 目标语言映射: None -> None
+2024-11-28 15:27:42.228 | WARNING  | __main__:update_model_dropdown:79 - 目标语言未选择，无法更新模型路径。源语言映射: 韩语 -> ko
+2024-11-28 15:27:42.328 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-28 15:27:42.329 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-28 15:27:42
+2024-11-28 15:27:43.185 | INFO     | __main__:update_model_dropdown:75 - 源语言映射: 韩语 -> ko, 目标语言映射: 中文 -> zh
+2024-11-28 15:27:43.186 | INFO     | __main__:update_model_dropdown:84 - 找到的模型路径: ['/home/yumingdong/mt-web/results/results-002_opus_ko_zh_newbase-dataset2-batch32']
+2024-11-28 15:27:44.194 | INFO     | __main__:check_and_load_model:146 - =============================================
+2024-11-28 15:27:44.195 | INFO     | __main__:check_and_load_model:148 - 时间: 2024-11-28 15:27:44
+2024-11-28 15:27:44.195 | INFO     | __main__:check_and_load_model:151 - 源语言: 韩语 (ko), 目标语言: 中文 (zh), 模型路径: /home/yumingdong/mt-web/results/results-002_opus_ko_zh_newbase-dataset2-batch32
+2024-11-28 15:27:45.360 | INFO     | __main__:check_and_load_model:156 - 模型加载成功
+2024-11-28 15:31:14.597 | INFO     | __main__:perform_translation:122 - 用户的输入是안녕 오랜만이야 어떻게 지냈어 안녕 잘 지냈어 너는 요즘 뭐 하고 지내니 나 요즘 바빠 세븐 프로젝트를 맡게 돼서 너무 야근이야 힘들겠네 그래도 전 전 열이 될 거야 주말에는 뭐 할 거야 주말에는 쉬려고 해 너는 개핸 있니 나는 제주시로 여행 가기로 했어 제주도도 가고 바다도 보고 싶어 꼭 같이 가자 꼭 같이 가서 좋은 추억과 사진 많이 찍고 담에는 바닷가에서 한 잔할래 카페에서 차 한 잔해도 좋아 정말 보고 싶어 우리 담에 또 봐
+2024-11-28 15:31:18.307 | INFO     | __main__:perform_translation:126 - 自研模型翻译结果是嘿,好久不见,你过得怎么样?你最近在忙什么?我最近忙得不可开交,我负责七个项目,真是太夜班了,这会很困难。不过,我周末要做什么?你打算在周末休息吗?你有一只狗吗?我决定去泽西岛旅行。我非常想去济州岛,也想去看看海洋。我们一定要一起去,拍很多美好的回忆和照片,还有在海边喝一杯,或者在咖啡馆喝一杯茶。我真的很想去看看我们的毛毯。再看看我们的毛毯。
